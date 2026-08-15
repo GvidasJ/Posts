@@ -22,10 +22,10 @@
 | 16 | Food & Lifestyle | Best drink? | Water | Cola | Juice | Milk | — | — |
 | 17 | Food & Lifestyle | Best ice cream flavor? | Chocolate | Vanilla | Strawberry | Mint | — | — |
 | 18 | Food & Lifestyle | Shower in the morning or night? | Morning | Night | Both | Rarely 💀 | — | — |
-| 19 | Impossible Choice | You MUST delete one forever — which app? | TikTok | YouTube | Netflix | Spotify | — | — |
-| 20 | Impossible Choice | You MUST give up one forever — which? | Pizza | Chocolate | Games | Internet | — | — |
-| 21 | Impossible Choice | You can only keep ONE — which device? | Phone | Laptop | TV | Console | — | — |
-| 22 | Impossible Choice | One disappears forever — which do you sacrifice? | Wi-Fi | Weekends | Snacks | Music | — | — |
+| 19 | Impossible Choice | Which app MUST you delete forever? | TikTok | YouTube | Netflix | Spotify | — | — |
+| 20 | Impossible Choice | Which one MUST you give up forever? | Pizza | Chocolate | Games | Internet | — | — |
+| 21 | Impossible Choice | Which ONE device do you keep forever? | Phone | Laptop | TV | Console | — | — |
+| 22 | Impossible Choice | Which one do you sacrifice forever? | Wi-Fi | Weekends | Snacks | Music | — | — |
 | 23 | Nostalgia Hit | Best childhood game? | Hide & seek | Tag | Video games | Lego | — | — |
 | 24 | Nostalgia Hit | Worst school subject? | Math | History | Grammar | All of them | — | — |
 | 25 | Nostalgia Hit | Best cartoon mouse? | Mickey | Jerry | Stuart Little | Pikachu | — | — |
