@@ -70,3 +70,38 @@
 | 59 | Debate Bait | Is talking during movies okay? | Yes | No | Whisper only | I fall asleep 💀 | — | — |
 | 60 | Debate Bait | Are trailers better than the movie? | Yes | No | Sometimes | I skip both | — | — |
 | 61 | Debate Bait | Is watching at 2x speed okay? | Yes | No | Sometimes | Always 💀 | — | — |
+
+## Batch 3 — 2026-08-16 (Movies & TV Shows II)
+
+| # | Type | Question | Option 1 | Option 2 | Option 3 | Option 4 | Correct (if any) | Image notes (if any) |
+|---|------|----------|----------|----------|----------|----------|------------------|----------------------|
+| 62 | Too-Easy Knowledge | What animal is Simba? | Lion | Tiger | Cat | Bear | Lion ✅ | — |
+| 63 | Too-Easy Knowledge | What color is Elsa's dress? | Blue | Red | Black | Orange | Blue ✅ | — |
+| 64 | Too-Easy Knowledge | Who is Tom always chasing? | Jerry | Spike | Donald | A ball | Jerry ✅ | — |
+| 65 | Too-Easy Knowledge | What is the Minions' favorite fruit? | Banana | Apple | Grape | Pizza | Banana ✅ | — |
+| 66 | Too-Easy Knowledge | Where does Batman live? | Gotham | Paris | Bikini Bottom | The Moon | Gotham ✅ | — |
+| 67 | Spot the Real One | Which one is the real Olaf? | Olaf | Snowman | Marshmallows | Sock puppet | Olaf ✅ | 1: official Olaf from Frozen ✅; 2: ordinary 3-ball garden snowman photo; 3: snowman built from stacked marshmallows; 4: white sock puppet with button eyes |
+| 68 | Spot the Real One | Which one is the real Lightning McQueen? | McQueen | Toy car | Sports car | Drawing | McQueen ✅ | 1: official Lightning McQueen still ✅; 2: generic red toy car; 3: photo of a real red sports car; 4: kid-style drawing of a red car with eyes |
+| 69 | Spot the Real One | Which one is the real Mickey Mouse? | Mickey | Jerry | Real mouse | Drawing | Mickey ✅ | 1: official Mickey Mouse ✅; 2: Jerry from Tom & Jerry; 3: photo of a real mouse; 4: black circle with two round ears drawn on |
+| 70 | Spot the Real One | Which one is the real Baby Yoda? | Grogu | Old Yoda | Gremlin toy | Green teddy | Grogu ✅ | 1: official Grogu (Baby Yoda) ✅; 2: regular old Yoda; 3: generic green gremlin toy; 4: green teddy bear with big ears |
+| 71 | Fan Battle | Choose your favorite Avenger | Iron Man | Thor | Hulk | Captain America | — | — |
+| 72 | Fan Battle | Choose the best princess | Elsa | Moana | Rapunzel | Cinderella | — | — |
+| 73 | Fan Battle | Choose your favorite dragon | Toothless | Mushu | Smaug | Charizard | — | — |
+| 74 | Fan Battle | Choose the best talking animal | Donkey | Scooby-Doo | Puss in Boots | Sid | — | — |
+| 75 | Food & Lifestyle | Choose your movie start time | Afternoon | Evening | Midnight | 3 AM 💀 | — | — |
+| 76 | Food & Lifestyle | Choose your cinema seat | Front | Middle | Back | Aisle | — | — |
+| 77 | Food & Lifestyle | Choose your movie candy | Gummies | Chocolate | Lollipop | Sour candy | — | — |
+| 78 | Food & Lifestyle | Choose your episode limit per night | One | Three | Five | Whole season 💀 | — | — |
+| 79 | Food & Lifestyle | Choose your movie night outfit | Pajamas | Blanket burrito | Onesie | Normal clothes | — | — |
+| 80 | Impossible Choice | Choose the only movie you watch forever | Frozen | Avengers | Shrek | Home Alone | — | — |
+| 81 | Impossible Choice | Choose one to delete forever | Disney | Marvel | Pixar | Netflix | — | — |
+| 82 | Impossible Choice | Choose one to suffer forever | Spoilers | Ads every 5 min | No popcorn | Cracked screen | — | — |
+| 83 | Impossible Choice | Choose one sidekick to lose forever | Donkey | Olaf | Groot | Pikachu | — | — |
+| 84 | Nostalgia Hit | Choose your favorite Disney classic | Aladdin | Mulan | Tarzan | Hercules | — | — |
+| 85 | Nostalgia Hit | Choose the best cartoon theme song | Pokémon | SpongeBob | DuckTales | Phineas & Ferb | — | — |
+| 86 | Nostalgia Hit | Choose your Saturday morning cartoon | Tom & Jerry | Looney Tunes | Ben 10 | Powerpuff Girls | — | — |
+| 87 | Nostalgia Hit | Choose the movie that made you cry | Lion King | Up | Coco | Titanic | — | — |
+| 88 | Debate Bait | Are remakes better than originals? | Yes | No | Sometimes | What's a remake | — | — |
+| 89 | Debate Bait | Is the cinema overrated? | Yes | No | Too expensive | Never been 💀 | — | — |
+| 90 | Debate Bait | Are spoilers really that bad? | Yes | No | I like spoilers | I spoil everyone 💀 | — | — |
+| 91 | Debate Bait | Is Shrek the best movie ever? | Yes | Absolutely | Obviously | No 💀 | — | — |
