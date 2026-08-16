@@ -35,3 +35,38 @@
 | 29 | Debate Bait | Is cereal a soup? | Yes | No | It's a salad | Never had cereal | — | — |
 | 30 | Debate Bait | Best sleeping position? | Back | Side | Stomach | Standing up | — | — |
 | 31 | Debate Bait | What goes in the bowl first? | Cereal | Milk | Both at once | Spoon 💀 | — | — |
+
+## Batch 2 — 2026-08-16 (Movies & TV Shows)
+
+| # | Type | Question | Option 1 | Option 2 | Option 3 | Option 4 | Correct (if any) | Image notes (if any) |
+|---|------|----------|----------|----------|----------|----------|------------------|----------------------|
+| 32 | Too-Easy Knowledge | Who is the snowman in Frozen? | Olaf | Sven | Elsa | Shrek | Olaf ✅ | — |
+| 33 | Too-Easy Knowledge | What color is the Hulk? | Green | Red | Blue | Pink | Green ✅ | — |
+| 34 | Too-Easy Knowledge | Who is Mickey Mouse's girlfriend? | Minnie | Daisy | Elsa | Dora | Minnie ✅ | — |
+| 35 | Too-Easy Knowledge | What does Spider-Man shoot? | Webs | Lasers | Fire | Spaghetti | Webs ✅ | — |
+| 36 | Too-Easy Knowledge | Who lives in a pineapple under the sea? | SpongeBob | Batman | Mario | Nemo | SpongeBob ✅ | — |
+| 37 | Spot the Real One | Which one is the real Shrek? | Shrek | Hulk | Grinch | Green alien | Shrek ✅ | 1: official Shrek still ✅; 2: green Hulk figure; 3: the Grinch; 4: generic green alien toy |
+| 38 | Spot the Real One | Which one is the real Minion? | Minion | Tic Tac | SpongeBob | Balloon | Minion ✅ | 1: official Minion ✅; 2: yellow Tic Tac candy close-up; 3: SpongeBob; 4: yellow balloon with goggles drawn on |
+| 39 | Spot the Real One | Which one is the real Pikachu? | Pikachu | Plush bear | Tweety | Yellow cat | Pikachu ✅ | 1: official Pikachu ✅; 2: yellow teddy bear plush; 3: Tweety Bird; 4: drawing of a yellow cat with red cheeks |
+| 40 | Spot the Real One | Which one is the real Batman logo? | Bat logo | Bird | Moth | Upside-down bat | Bat logo ✅ | 1: official Batman bat symbol ✅; 2: black bird silhouette in oval; 3: moth silhouette in oval; 4: Batman logo flipped upside down |
+| 41 | Fan Battle | Choose your favorite superhero movie | Avengers | Spider-Man | Batman | Superman | — | — |
+| 42 | Fan Battle | Choose your favorite animated movie | Frozen | Moana | Shrek | Toy Story | — | — |
+| 43 | Fan Battle | Choose the best movie villain | Thanos | Joker | Darth Vader | Voldemort | — | — |
+| 44 | Fan Battle | Choose your favorite cartoon show | SpongeBob | Tom & Jerry | The Simpsons | Gumball | — | — |
+| 45 | Food & Lifestyle | Choose your favorite movie snack | Popcorn | Candy | Nachos | Ice cream | — | — |
+| 46 | Food & Lifestyle | Choose your movie night spot | Cinema | Couch | Bed | Floor | — | — |
+| 47 | Food & Lifestyle | Choose your favorite movie genre | Comedy | Horror | Action | Romance | — | — |
+| 48 | Food & Lifestyle | Choose your movie-watching crew | Alone | Family | Friends | My pet | — | — |
+| 49 | Food & Lifestyle | Choose your popcorn flavor | Salty | Sweet | Butter | Cheese | — | — |
+| 50 | Impossible Choice | Choose one to never watch again | Movies | Cartoons | Series | YouTube videos | — | — |
+| 51 | Impossible Choice | Choose one character to be forever | Spider-Man | Elsa | Shrek | A Minion | — | — |
+| 52 | Impossible Choice | Choose one to lose forever | Popcorn | Subtitles | Sequels | Movie music | — | — |
+| 53 | Impossible Choice | Choose one world to live in forever | Hogwarts | Star Wars | Jurassic Park | Bikini Bottom | — | — |
+| 54 | Nostalgia Hit | Choose your favorite childhood movie | Lion King | Finding Nemo | Ice Age | Madagascar | — | — |
+| 55 | Nostalgia Hit | Choose your favorite childhood show | Scooby-Doo | Dora | Teletubbies | Pokémon | — | — |
+| 56 | Nostalgia Hit | Choose the cartoon you miss most | Phineas & Ferb | Kim Possible | Courage | Ed Edd n Eddy | — | — |
+| 57 | Nostalgia Hit | Choose your favorite movie duo | Tom & Jerry | Shrek & Donkey | Woody & Buzz | Timon & Pumbaa | — | — |
+| 58 | Debate Bait | Is the book always better? | Yes | No | Never read it | Movies rule | — | — |
+| 59 | Debate Bait | Is talking during movies okay? | Yes | No | Whisper only | I fall asleep 💀 | — | — |
+| 60 | Debate Bait | Are trailers better than the movie? | Yes | No | Sometimes | I skip both | — | — |
+| 61 | Debate Bait | Is watching at 2x speed okay? | Yes | No | Sometimes | Always 💀 | — | — |
