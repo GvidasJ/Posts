@@ -175,3 +175,38 @@
 | 149 | Debate Bait | Is skipping the intro a crime? | Yes | No | Always skip | What intro | — | — |
 | 150 | Debate Bait | Is crying at movies embarrassing? | Yes | No | I never cry | I always cry 💀 | — | — |
 | 151 | Debate Bait | Are horror movies actually scary? | Yes | No | Lights stay on 💀 | I'm fearless | — | — |
+
+## Batch 6 — 2026-08-16 (Movies & TV Experience, text-only)
+
+| # | Type | Question | Option 1 | Option 2 | Option 3 | Option 4 | Correct (if any) | Image notes (if any) |
+|---|------|----------|----------|----------|----------|----------|------------------|----------------------|
+| 152 | Too-Easy Knowledge | Who acts in movies? | Actors | Doctors | Farmers | Robots | Actors ✅ | — |
+| 153 | Too-Easy Knowledge | What is a movie's music called? | Soundtrack | Ringtone | Alarm | Beatbox | Soundtrack ✅ | — |
+| 154 | Too-Easy Knowledge | What do you press to stop a movie? | Pause | Play | Eject | The TV | Pause ✅ | — |
+| 155 | Too-Easy Knowledge | What is one episode part of? | A series | A cereal | A sandwich | A song | A series ✅ | — |
+| 156 | Too-Easy Knowledge | What rolls at the end of movies? | Credits | Dice | Popcorn | A ball | Credits ✅ | — |
+| 157 | Fan Battle | Choose the best movie scene | Car chase | Big battle | Plot twist | Dance scene | — | — |
+| 158 | Fan Battle | Choose the best character role | The hero | The villain | The funny one | The sidekick | — | — |
+| 159 | Fan Battle | Choose the best movie world | Space | Underwater | Magic kingdom | Dinosaur island | — | — |
+| 160 | Fan Battle | Choose the best animal actor | Dogs | Cats | Horses | Monkeys | — | — |
+| 161 | Fan Battle | Choose the best movie vehicle | Flying car | Spaceship | Time machine | Talking car | — | — |
+| 162 | Food & Lifestyle | Choose your subtitle setting | Always on | Always off | Loud parts only | Huge subtitles 💀 | — | — |
+| 163 | Food & Lifestyle | Choose your movie pick time | Instant | 10 minutes | An hour | Never decide 💀 | — | — |
+| 164 | Food & Lifestyle | Choose your pause reason | Toilet | Snacks | Phone call | Never pause 💀 | — | — |
+| 165 | Food & Lifestyle | Choose your spoiler defense | Mute words | Avoid internet | Watch fast | I spoil myself 💀 | — | — |
+| 166 | Food & Lifestyle | Choose your watching position | Sitting | Lying down | Upside down | On the floor | — | — |
+| 167 | Impossible Choice | Choose one gone forever | Movie music | Funny scenes | Happy endings | Plot twists | — | — |
+| 168 | Impossible Choice | Choose your cinema seat forever | Front row | Behind tall person | Next to talker | Sticky floor 💀 | — | — |
+| 169 | Impossible Choice | Choose your 24-hour marathon | Cartoons | Horror | Romance | Documentaries | — | — |
+| 170 | Impossible Choice | Choose who picks movies forever | Parents | Little sibling | Random button | Your enemy 💀 | — | — |
+| 171 | Impossible Choice | Choose your movie life role | Hero | Villain | Sidekick | Background extra 💀 | — | — |
+| 172 | Nostalgia Hit | Choose the best sick-day watch | Cartoons all day | Movies all day | Game shows | Sleep instead | — | — |
+| 173 | Nostalgia Hit | Choose your childhood movie fear | Monster scenes | Dark scenes | Sad scenes | Nothing scared me 💀 | — | — |
+| 174 | Nostalgia Hit | Choose your TV crime as a kid | Stayed up late | Sat too close | Volume sneaking | Faked sleeping | — | — |
+| 175 | Nostalgia Hit | Choose what you rewatched most | One movie | One cartoon | One episode | Everything | — | — |
+| 176 | Nostalgia Hit | Choose the best family movie night | Friday | Saturday | Sunday | Every night | — | — |
+| 177 | Debate Bait | Do trailers spoil too much? | Yes | No | I skip them | Trailers lie 💀 | — | — |
+| 178 | Debate Bait | Is the front row that bad? | Yes | No | Best seats 💀 | Never tried | — | — |
+| 179 | Debate Bait | Should phones be banned in cinemas? | Yes | No | Silent is fine | I'm the texter 💀 | — | — |
+| 180 | Debate Bait | Is one episode ever enough? | Yes | No | Never | What's "one" 💀 | — | — |
+| 181 | Debate Bait | Are old movies boring? | Yes 💀 | No | Some | Old is gold | — | — |
