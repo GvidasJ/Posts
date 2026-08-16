@@ -140,3 +140,38 @@
 | 119 | Debate Bait | Is pizza better cold? | Yes | No | Never tried | Pizza is pizza | — | — |
 | 120 | Debate Bait | Is Monday really that bad? | Yes | No | Every day is bad 💀 | I love Mondays | — | — |
 | 121 | Debate Bait | Should socks always match? | Yes | No | Never check | Socks are optional 💀 | — | — |
+
+## Batch 5 — 2026-08-16 (Movies & TV Experience — no title knowledge needed)
+
+| # | Type | Question | Option 1 | Option 2 | Option 3 | Option 4 | Correct (if any) | Image notes (if any) |
+|---|------|----------|----------|----------|----------|----------|------------------|----------------------|
+| 122 | Too-Easy Knowledge | What does TV stand for? | Television | Total Video | Tiny Vision | Top View | Television ✅ | — |
+| 123 | Too-Easy Knowledge | Where do movies play on big screens? | Cinema | Kitchen | School | Garage | Cinema ✅ | — |
+| 124 | Too-Easy Knowledge | What is a short movie preview called? | Trailer | Poster | Remote | Popcorn | Trailer ✅ | — |
+| 125 | Too-Easy Knowledge | Who is the boss of making a movie? | Director | Doctor | Driver | DJ | Director ✅ | — |
+| 126 | Too-Easy Knowledge | What do actors read their lines from? | Script | Menu | Map | Homework | Script ✅ | — |
+| 127 | Spot the Real One | Which one is real movie popcorn? | Popcorn | Cauliflower | Foam | Flowers | Popcorn ✅ | 1: real buttered popcorn in a striped box ✅; 2: cauliflower florets close-up; 3: white packing foam pieces; 4: small white flower buds |
+| 128 | Spot the Real One | Which one is a real TV remote? | Remote | Calculator | Phone | Chocolate | Remote ✅ | 1: real TV remote ✅; 2: calculator; 3: old phone with buttons; 4: chocolate bar with buttons drawn on |
+| 129 | Spot the Real One | Which one is a real movie clapperboard? | Clapperboard | Chalkboard | Domino | Notebook | Clapperboard ✅ | 1: real film clapperboard ✅; 2: mini chalkboard with wooden frame; 3: large domino piece; 4: zebra-striped notebook |
+| 130 | Spot the Real One | Which one is a real cinema ticket? | Ticket | Receipt | Bus ticket | Wrapper | Ticket ✅ | 1: real cinema ticket stub ✅; 2: shopping receipt; 3: bus ticket; 4: flattened candy wrapper |
+| 131 | Fan Battle | Choose the best hero type | Superhero | Spy | Wizard | Pirate | — | — |
+| 132 | Fan Battle | Choose the best movie creature | Dragon | Dinosaur | Alien | Robot | — | — |
+| 133 | Fan Battle | Choose the best movie ending | Happy | Sad | Twist | Cliffhanger | — | — |
+| 134 | Fan Battle | Choose the best villain type | Evil genius | Monster | Robot | Sad backstory | — | — |
+| 135 | Food & Lifestyle | Choose your movie screen | Phone | Tablet | TV | Cinema screen | — | — |
+| 136 | Food & Lifestyle | Choose your volume level | Quiet | Normal | Loud | Neighbors complain 💀 | — | — |
+| 137 | Food & Lifestyle | Choose your lights setting | All off | Dim | All on | Fairy lights | — | — |
+| 138 | Food & Lifestyle | Choose what you do during ads | Skip | Snack run | Toilet run | Actually watch 💀 | — | — |
+| 139 | Food & Lifestyle | Choose your rewatch count | Never | Once | A few times | 100+ times 💀 | — | — |
+| 140 | Impossible Choice | Choose one to sit through forever | Ads | Intros | Credits | Recaps | — | — |
+| 141 | Impossible Choice | Choose your only movie power | Skip scenes | Know endings | Delete movies | Live in movies | — | — |
+| 142 | Impossible Choice | Choose how you watch forever | No sound | No color | Tiny screen | Standing up | — | — |
+| 143 | Impossible Choice | Choose one snack banned forever | Popcorn | Candy | Nachos | Drinks | — | — |
+| 144 | Nostalgia Hit | Choose your childhood watch time | Saturday morning | After school | Before bed | All day 💀 | — | — |
+| 145 | Nostalgia Hit | Choose your childhood screen | Big family TV | Bedroom TV | Computer | Cinema | — | — |
+| 146 | Nostalgia Hit | Choose what you fell asleep to | Cartoons | Movies | Music | TV static 💀 | — | — |
+| 147 | Nostalgia Hit | Choose the worst old TV moment | No signal | Scratched DVD | Channel stolen | Bedtime 😭 | — | — |
+| 148 | Debate Bait | Are cartoons only for kids? | Yes | No | Adults too | I'm the proof 💀 | — | — |
+| 149 | Debate Bait | Is skipping the intro a crime? | Yes | No | Always skip | What intro | — | — |
+| 150 | Debate Bait | Is crying at movies embarrassing? | Yes | No | I never cry | I always cry 💀 | — | — |
+| 151 | Debate Bait | Are horror movies actually scary? | Yes | No | Lights stay on 💀 | I'm fearless | — | — |
