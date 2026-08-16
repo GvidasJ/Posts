@@ -34,3 +34,4 @@
 | 28 | Debate Bait | Is water wet? | Yes | No | Maybe | Who cares | — | — |
 | 29 | Debate Bait | Is cereal a soup? | Yes | No | It's a salad | Never had cereal | — | — |
 | 30 | Debate Bait | Best sleeping position? | Back | Side | Stomach | Standing up | — | — |
+| 31 | Debate Bait | What goes in the bowl first? | Cereal | Milk | Both at once | Spoon 💀 | — | — |
