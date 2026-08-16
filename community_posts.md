@@ -210,3 +210,38 @@
 | 179 | Debate Bait | Should phones be banned in cinemas? | Yes | No | Silent is fine | I'm the texter 💀 | — | — |
 | 180 | Debate Bait | Is one episode ever enough? | Yes | No | Never | What's "one" 💀 | — | — |
 | 181 | Debate Bait | Are old movies boring? | Yes 💀 | No | Some | Old is gold | — | — |
+
+## Batch 7 — 2026-08-16 (Movies & TV Experience II, text-only)
+
+| # | Type | Question | Option 1 | Option 2 | Option 3 | Option 4 | Correct (if any) | Image notes (if any) |
+|---|------|----------|----------|----------|----------|----------|------------------|----------------------|
+| 182 | Too-Easy Knowledge | What do superheroes usually wear? | Cape | Raincoat | Backpack | Slippers | Cape ✅ | — |
+| 183 | Too-Easy Knowledge | What shape is a DVD? | Round | Square | Triangle | Banana-shaped | Round ✅ | — |
+| 184 | Too-Easy Knowledge | What does a cameraman hold? | Camera | Cake | Ladder | Fish | Camera ✅ | — |
+| 185 | Too-Easy Knowledge | Where do actors get famous? | Hollywood | The gym | The moon | My street | Hollywood ✅ | — |
+| 186 | Too-Easy Knowledge | What is a movie's name called? | Title | Nickname | Password | Label | Title ✅ | — |
+| 187 | Fan Battle | Choose the best plot twist | Secret twin | Was a dream | Villain wins | Time loop | — | — |
+| 188 | Fan Battle | Choose the best super suit color | Red | Black | Blue | Gold | — | — |
+| 189 | Fan Battle | Choose the best movie pet | Talking parrot | Loyal dog | Magic cat | Baby dragon | — | — |
+| 190 | Fan Battle | Choose the best fight scene | Sword fight | Kung fu | Space battle | Food fight | — | — |
+| 191 | Fan Battle | Choose the best opening scene | Explosion | Mystery | Song | Waking up 💀 | — | — |
+| 192 | Food & Lifestyle | Choose your snack timing | Gone before start 💀 | First half | Whole movie | Save for end | — | — |
+| 193 | Food & Lifestyle | Choose your phone rule | Off | Silent | Scrolling 💀 | What rule | — | — |
+| 194 | Food & Lifestyle | Choose your ending reaction | Cry | Clap | Sit in silence | Instantly Google | — | — |
+| 195 | Food & Lifestyle | Choose your watch speed | Normal | 1.5x | 2x 💀 | Slow motion | — | — |
+| 196 | Food & Lifestyle | Choose your movie memory | Remember everything | Forget in a day | Only funny parts | What movie 💀 | — | — |
+| 197 | Impossible Choice | Choose your forever movie buddy | Talker | Snack stealer | Sleeper | Spoiler 💀 | — | — |
+| 198 | Impossible Choice | Choose one genre banned forever | Comedy | Action | Animation | Sci-fi | — | — |
+| 199 | Impossible Choice | Choose your movie curse | Always spoiled | Always interrupted | Always sleepy | No snacks ever | — | — |
+| 200 | Impossible Choice | Choose your movies forever | Only sequels | Only remakes | Only musicals | Only silent films | — | — |
+| 201 | Impossible Choice | Choose the movie you must survive | Horror house | Dino island | Space crash | Zombie city | — | — |
+| 202 | Nostalgia Hit | Choose your childhood watch snack | Cereal | Juice box | Cookies | Stolen candy 💀 | — | — |
+| 203 | Nostalgia Hit | Choose your cartoon wake-up time | 6 AM | 7 AM | 8 AM | Noon 💀 | — | — |
+| 204 | Nostalgia Hit | Choose your remote war rival | Sibling | Dad | Mom | Grandma 💀 | — | — |
+| 205 | Nostalgia Hit | Choose what ruined movie night | Fell asleep | Power cut | Bedtime | Sibling changed it | — | — |
+| 206 | Nostalgia Hit | Choose your childhood dream job | Actor | Cartoon voice | Stunt double | Movie star's pet 💀 | — | — |
+| 207 | Debate Bait | Do movies need to be 3 hours? | Yes | No | 90 minutes max | Even longer 💀 | — | — |
+| 208 | Debate Bait | Is watching alone better? | Yes | No | Depends | Friends ruin movies 💀 | — | — |
+| 209 | Debate Bait | Are sad endings better? | Yes | No | Happy only | I pretend they're happy | — | — |
+| 210 | Debate Bait | Is rewatching better than new movies? | Yes | No | Both | New is scary 💀 | — | — |
+| 211 | Debate Bait | Is popcorn overrated? | Yes 💀 | No | It's perfect | Nachos win | — | — |
