@@ -105,3 +105,38 @@
 | 89 | Debate Bait | Is the cinema overrated? | Yes | No | Too expensive | Never been 💀 | — | — |
 | 90 | Debate Bait | Are spoilers really that bad? | Yes | No | I like spoilers | I spoil everyone 💀 | — | — |
 | 91 | Debate Bait | Is Shrek the best movie ever? | Yes | Absolutely | Obviously | No 💀 | — | — |
+
+## Batch 4 — 2026-08-16 (General II)
+
+| # | Type | Question | Option 1 | Option 2 | Option 3 | Option 4 | Correct (if any) | Image notes (if any) |
+|---|------|----------|----------|----------|----------|----------|------------------|----------------------|
+| 92 | Too-Easy Knowledge | How many days are in a week? | 7 | 5 | 10 | 100 | 7 ✅ | — |
+| 93 | Too-Easy Knowledge | Which one can fly? | Eagle | Penguin | Cow | Fish | Eagle ✅ | — |
+| 94 | Too-Easy Knowledge | What do bees make? | Honey | Milk | Cheese | Ketchup | Honey ✅ | — |
+| 95 | Too-Easy Knowledge | What color is grass? | Green | Blue | Red | Invisible | Green ✅ | — |
+| 96 | Too-Easy Knowledge | How many fingers on one hand? | 5 | 4 | 10 | 12 | 5 ✅ | — |
+| 97 | Spot the Real One | Which one is the real Earth? | Earth | Marble | Blueberry | Beach ball | Earth ✅ | 1: real photo of Earth from space ✅; 2: blue-green glass marble close-up; 3: blueberry macro shot; 4: blue beach ball |
+| 98 | Spot the Real One | Which one is a real banana? | Banana | Moon | Boomerang | Toy | Banana ✅ | 1: real banana ✅; 2: yellow crescent moon; 3: yellow boomerang; 4: plastic toy banana |
+| 99 | Spot the Real One | Which one is a real egg? | Egg | Pebble | Ping-pong ball | Candy | Egg ✅ | 1: real white egg ✅; 2: smooth white pebble; 3: ping-pong ball; 4: white oval mint candy |
+| 100 | Spot the Real One | Which one is a real rainbow? | Rainbow | Painting | Neon lights | Candy | Rainbow ✅ | 1: real rainbow over a field ✅; 2: painted rainbow on a wall; 3: rainbow-colored neon light strips; 4: rainbow candy strip |
+| 101 | Fan Battle | Choose your favorite season | Summer | Winter | Spring | Autumn | — | — |
+| 102 | Fan Battle | Choose your favorite social app | TikTok | Instagram | Snapchat | YouTube | — | — |
+| 103 | Fan Battle | Choose the coolest wild animal | Lion | Wolf | Eagle | Shark | — | — |
+| 104 | Fan Battle | Choose your favorite music genre | Pop | Rap | Rock | Lo-fi | — | — |
+| 105 | Food & Lifestyle | Choose your favorite fruit | Mango | Banana | Watermelon | Strawberry | — | — |
+| 106 | Food & Lifestyle | Choose your favorite weather | Sunny | Rainy | Snowy | Stormy | — | — |
+| 107 | Food & Lifestyle | Choose your sleep schedule | Early bird | Night owl | Depends | No sleep 💀 | — | — |
+| 108 | Food & Lifestyle | Choose your toast topping | Butter | Jam | Chocolate spread | Cheese | — | — |
+| 109 | Food & Lifestyle | Choose your egg style | Scrambled | Fried | Boiled | No eggs | — | — |
+| 110 | Impossible Choice | Choose the only food you eat forever | Pizza | Burgers | Salad | Cereal | — | — |
+| 111 | Impossible Choice | Choose your only superpower | Flying | Invisibility | Super speed | Mind reading | — | — |
+| 112 | Impossible Choice | Choose one to live without forever | Mirror | Pillow | Shoes | Ketchup | — | — |
+| 113 | Impossible Choice | Choose where you live forever | Beach | Mountains | City | Space | — | — |
+| 114 | Nostalgia Hit | Choose your favorite playground spot | Swings | Slide | Monkey bars | Sandbox | — | — |
+| 115 | Nostalgia Hit | Choose your favorite school memory | Recess | Field trips | Snow days | Last day | — | — |
+| 116 | Nostalgia Hit | Choose your favorite childhood toy | Teddy bear | Toy cars | Dolls | Slime | — | — |
+| 117 | Nostalgia Hit | Choose the best birthday party spot | Bouncy castle | Pool | McDonald's | Arcade | — | — |
+| 118 | Debate Bait | Is a hotdog a sandwich? | Yes | No | It's a taco | Who cares | — | — |
+| 119 | Debate Bait | Is pizza better cold? | Yes | No | Never tried | Pizza is pizza | — | — |
+| 120 | Debate Bait | Is Monday really that bad? | Yes | No | Every day is bad 💀 | I love Mondays | — | — |
+| 121 | Debate Bait | Should socks always match? | Yes | No | Never check | Socks are optional 💀 | — | — |
