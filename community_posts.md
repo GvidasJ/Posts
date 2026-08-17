@@ -21,15 +21,15 @@
 | 15 | Food & Lifestyle | Choose your favorite breakfast | Cereal | Pancakes | Eggs | Nothing | — | — |
 | 16 | Food & Lifestyle | Choose your favorite drink | Water | Cola | Juice | Milk | — | — |
 | 17 | Food & Lifestyle | Choose your favorite ice cream flavor | Chocolate | Vanilla | Strawberry | Mint | — | — |
-| 18 | Food & Lifestyle | Choose your shower time | Morning | Night | Both | Rarely 💀 | — | — |
-| 19 | Impossible Choice | Choose the app to delete forever | TikTok | YouTube | Netflix | Spotify | — | — |
-| 20 | Impossible Choice | Choose one to give up forever | Pizza | Chocolate | Games | Internet | — | — |
-| 21 | Impossible Choice | Choose the only device you keep | Phone | Laptop | TV | Console | — | — |
-| 22 | Impossible Choice | Choose one to lose forever | Wi-Fi | Weekends | Snacks | Music | — | — |
+| 18 | Food & Lifestyle | When do you shower? | Morning | Night | Both | Rarely 💀 | — | — |
+| 19 | Impossible Choice | Which app would you delete forever? | TikTok | YouTube | Netflix | Spotify | — | — |
+| 20 | Impossible Choice | Which one would you give up forever? | Pizza | Chocolate | Games | Internet | — | — |
+| 21 | Impossible Choice | Which device would you keep forever? | Phone | Laptop | TV | Console | — | — |
+| 22 | Impossible Choice | Which one would you lose forever? | Wi-Fi | Weekends | Snacks | Music | — | — |
 | 23 | Nostalgia Hit | Choose your favorite childhood game | Hide & seek | Tag | Video games | Lego | — | — |
-| 24 | Nostalgia Hit | Choose the worst school subject | Math | History | Grammar | All of them | — | — |
+| 24 | Nostalgia Hit | What was the worst school subject? | Math | History | Grammar | All of them | — | — |
 | 25 | Nostalgia Hit | Choose your favorite cartoon mouse | Mickey | Jerry | Stuart Little | Pikachu | — | — |
-| 26 | Nostalgia Hit | Choose the best part of childhood | No bills | Naps | Cartoons | Summer break | — | — |
+| 26 | Nostalgia Hit | What was the best part of childhood? | No bills | Naps | Cartoons | Summer break | — | — |
 | 27 | Debate Bait | Does pineapple belong on pizza? | Yes | No | Sometimes | Pizza is bad | — | — |
 | 28 | Debate Bait | Is water wet? | Yes | No | Maybe | Who cares | — | — |
 | 29 | Debate Bait | Is cereal a soup? | Yes | No | It's a salad | Never had cereal | — | — |
@@ -54,17 +54,17 @@
 | 43 | Fan Battle | Choose the best movie villain | Thanos | Joker | Darth Vader | Voldemort | — | — |
 | 44 | Fan Battle | Choose your favorite cartoon show | SpongeBob | Tom & Jerry | The Simpsons | Gumball | — | — |
 | 45 | Food & Lifestyle | Choose your favorite movie snack | Popcorn | Candy | Nachos | Ice cream | — | — |
-| 46 | Food & Lifestyle | Choose your movie night spot | Cinema | Couch | Bed | Floor | — | — |
+| 46 | Food & Lifestyle | Where do you watch movies at home? | Couch | Bed | Floor | At the cinema | — | — |
 | 47 | Food & Lifestyle | Choose your favorite movie genre | Comedy | Horror | Action | Romance | — | — |
-| 48 | Food & Lifestyle | Choose your movie-watching crew | Alone | Family | Friends | My pet | — | — |
-| 49 | Food & Lifestyle | Choose your popcorn flavor | Salty | Sweet | Butter | Cheese | — | — |
-| 50 | Impossible Choice | Choose one to never watch again | Movies | Cartoons | Series | YouTube videos | — | — |
-| 51 | Impossible Choice | Choose one character to be forever | Spider-Man | Elsa | Shrek | A Minion | — | — |
-| 52 | Impossible Choice | Choose one to lose forever | Popcorn | Subtitles | Sequels | Movie music | — | — |
-| 53 | Impossible Choice | Choose one world to live in forever | Hogwarts | Star Wars | Jurassic Park | Bikini Bottom | — | — |
+| 48 | Food & Lifestyle | Who do you watch movies with? | Alone | Family | Friends | My pet | — | — |
+| 49 | Food & Lifestyle | Which popcorn flavor do you get? | Salty | Sweet | Butter | Cheese | — | — |
+| 50 | Impossible Choice | Which would you never watch again? | Movies | Cartoons | TV series | YouTube videos | — | — |
+| 51 | Impossible Choice | Which character would you become? | Spider-Man | Elsa | Shrek | A Minion | — | — |
+| 52 | Impossible Choice | Which would you lose forever? | Popcorn | Subtitles | Sequels | Movie music | — | — |
+| 53 | Impossible Choice | Which world would you live in? | Hogwarts | Star Wars | Jurassic Park | Bikini Bottom | — | — |
 | 54 | Nostalgia Hit | Choose your favorite childhood movie | Lion King | Finding Nemo | Ice Age | Madagascar | — | — |
 | 55 | Nostalgia Hit | Choose your favorite childhood show | Scooby-Doo | Dora | Teletubbies | Pokémon | — | — |
-| 56 | Nostalgia Hit | Choose the cartoon you miss most | Phineas & Ferb | Kim Possible | Courage | Ed Edd n Eddy | — | — |
+| 56 | Nostalgia Hit | Which cartoon do you miss most? | Phineas & Ferb | Kim Possible | Courage | Ed Edd n Eddy | — | — |
 | 57 | Nostalgia Hit | Choose your favorite movie duo | Tom & Jerry | Shrek & Donkey | Woody & Buzz | Timon & Pumbaa | — | — |
 | 58 | Debate Bait | Is the book always better? | Yes | No | Never read it | Movies rule | — | — |
 | 59 | Debate Bait | Is talking during movies okay? | Yes | No | Whisper only | I fall asleep 💀 | — | — |
@@ -88,19 +88,19 @@
 | 72 | Fan Battle | Choose the best princess | Elsa | Moana | Rapunzel | Cinderella | — | — |
 | 73 | Fan Battle | Choose your favorite dragon | Toothless | Mushu | Smaug | Charizard | — | — |
 | 74 | Fan Battle | Choose the best talking animal | Donkey | Scooby-Doo | Puss in Boots | Sid | — | — |
-| 75 | Food & Lifestyle | Choose your movie start time | Afternoon | Evening | Midnight | 3 AM 💀 | — | — |
-| 76 | Food & Lifestyle | Choose your cinema seat | Front | Middle | Back | Aisle | — | — |
-| 77 | Food & Lifestyle | Choose your movie candy | Gummies | Chocolate | Lollipop | Sour candy | — | — |
-| 78 | Food & Lifestyle | Choose your episode limit per night | One | Three | Five | Whole season 💀 | — | — |
-| 79 | Food & Lifestyle | Choose your movie night outfit | Pajamas | Blanket burrito | Onesie | Normal clothes | — | — |
-| 80 | Impossible Choice | Choose the only movie you watch forever | Frozen | Avengers | Shrek | Home Alone | — | — |
-| 81 | Impossible Choice | Choose one to delete forever | Disney | Marvel | Pixar | Netflix | — | — |
-| 82 | Impossible Choice | Choose one to suffer forever | Spoilers | Ads every 5 min | No popcorn | Cracked screen | — | — |
-| 83 | Impossible Choice | Choose one sidekick to lose forever | Donkey | Olaf | Groot | Pikachu | — | — |
+| 75 | Food & Lifestyle | What time do you start movies? | Afternoon | Evening | Midnight | 3 AM 💀 | — | — |
+| 76 | Food & Lifestyle | Where do you sit in the cinema? | Front | Middle | Back | Aisle | — | — |
+| 77 | Food & Lifestyle | Choose your favorite movie candy | Gummies | Chocolate | Lollipop | Sour candy | — | — |
+| 78 | Food & Lifestyle | How many episodes per night? | One | Three | Five | Whole season 💀 | — | — |
+| 79 | Food & Lifestyle | What do you wear on movie night? | Pajamas | Wrapped in a blanket | Onesie | Normal clothes | — | — |
+| 80 | Impossible Choice | Which movie could you watch forever? | Frozen | Avengers | Shrek | Home Alone | — | — |
+| 81 | Impossible Choice | Which one would you delete forever? | Disney | Marvel | Pixar | Netflix | — | — |
+| 82 | Impossible Choice | Which could you put up with forever? | Spoilers | Ads every 5 min | No popcorn | Cracked screen | — | — |
+| 83 | Impossible Choice | Which sidekick would you lose forever? | Donkey | Olaf | Groot | Pikachu | — | — |
 | 84 | Nostalgia Hit | Choose your favorite Disney classic | Aladdin | Mulan | Tarzan | Hercules | — | — |
 | 85 | Nostalgia Hit | Choose the best cartoon theme song | Pokémon | SpongeBob | DuckTales | Phineas & Ferb | — | — |
-| 86 | Nostalgia Hit | Choose your Saturday morning cartoon | Tom & Jerry | Looney Tunes | Ben 10 | Powerpuff Girls | — | — |
-| 87 | Nostalgia Hit | Choose the movie that made you cry | Lion King | Up | Coco | Titanic | — | — |
+| 86 | Nostalgia Hit | Which cartoon did you watch on Saturdays? | Tom & Jerry | Looney Tunes | Ben 10 | Powerpuff Girls | — | — |
+| 87 | Nostalgia Hit | Which movie made you cry? | Lion King | Up | Coco | Titanic | — | — |
 | 88 | Debate Bait | Are remakes better than originals? | Yes | No | Sometimes | What's a remake | — | — |
 | 89 | Debate Bait | Is the cinema overrated? | Yes | No | Too expensive | Never been 💀 | — | — |
 | 90 | Debate Bait | Are spoilers really that bad? | Yes | No | I like spoilers | I spoil everyone 💀 | — | — |
@@ -125,17 +125,17 @@
 | 104 | Fan Battle | Choose your favorite music genre | Pop | Rap | Rock | Lo-fi | — | — |
 | 105 | Food & Lifestyle | Choose your favorite fruit | Mango | Banana | Watermelon | Strawberry | — | — |
 | 106 | Food & Lifestyle | Choose your favorite weather | Sunny | Rainy | Snowy | Stormy | — | — |
-| 107 | Food & Lifestyle | Choose your sleep schedule | Early bird | Night owl | Depends | No sleep 💀 | — | — |
-| 108 | Food & Lifestyle | Choose your toast topping | Butter | Jam | Chocolate spread | Cheese | — | — |
-| 109 | Food & Lifestyle | Choose your egg style | Scrambled | Fried | Boiled | No eggs | — | — |
-| 110 | Impossible Choice | Choose the only food you eat forever | Pizza | Burgers | Salad | Cereal | — | — |
-| 111 | Impossible Choice | Choose your only superpower | Flying | Invisibility | Super speed | Mind reading | — | — |
-| 112 | Impossible Choice | Choose one to live without forever | Mirror | Pillow | Shoes | Ketchup | — | — |
-| 113 | Impossible Choice | Choose where you live forever | Beach | Mountains | City | Space | — | — |
-| 114 | Nostalgia Hit | Choose your favorite playground spot | Swings | Slide | Monkey bars | Sandbox | — | — |
-| 115 | Nostalgia Hit | Choose your favorite school memory | Recess | Field trips | Snow days | Last day | — | — |
+| 107 | Food & Lifestyle | When do you go to sleep? | Early | Late | Depends | I don't sleep 💀 | — | — |
+| 108 | Food & Lifestyle | What do you put on your toast? | Butter | Jam | Chocolate spread | Cheese | — | — |
+| 109 | Food & Lifestyle | How do you eat your eggs? | Scrambled | Fried | Boiled | I don't eat eggs | — | — |
+| 110 | Impossible Choice | Which food would you eat forever? | Pizza | Burgers | Salad | Cereal | — | — |
+| 111 | Impossible Choice | Which superpower would you pick? | Flying | Invisibility | Super speed | Mind reading | — | — |
+| 112 | Impossible Choice | Which would you live without forever? | Mirrors | Pillows | Shoes | Ketchup | — | — |
+| 113 | Impossible Choice | Where would you live forever? | Beach | Mountains | City | Space | — | — |
+| 114 | Nostalgia Hit | What did you play on at the playground? | Swings | Slide | Monkey bars | Sandbox | — | — |
+| 115 | Nostalgia Hit | What was the best part of school? | Recess | Field trips | Snow days | Last day | — | — |
 | 116 | Nostalgia Hit | Choose your favorite childhood toy | Teddy bear | Toy cars | Dolls | Slime | — | — |
-| 117 | Nostalgia Hit | Choose the best birthday party spot | Bouncy castle | Pool | McDonald's | Arcade | — | — |
+| 117 | Nostalgia Hit | Where was the best birthday party? | Bouncy castle | Pool | McDonald's | Arcade | — | — |
 | 118 | Debate Bait | Is a hotdog a sandwich? | Yes | No | It's a taco | Who cares | — | — |
 | 119 | Debate Bait | Is pizza better cold? | Yes | No | Never tried | Pizza is pizza | — | — |
 | 120 | Debate Bait | Is Monday really that bad? | Yes | No | Every day is bad 💀 | I love Mondays | — | — |
@@ -154,23 +154,23 @@
 | 128 | Spot the Real One | Which one is a real TV remote? | Remote | Calculator | Phone | Chocolate | Remote ✅ | 1: real TV remote ✅; 2: calculator; 3: old phone with buttons; 4: chocolate bar with buttons drawn on |
 | 129 | Spot the Real One | Which one is a real movie clapperboard? | Clapperboard | Chalkboard | Domino | Notebook | Clapperboard ✅ | 1: real film clapperboard ✅; 2: mini chalkboard with wooden frame; 3: large domino piece; 4: zebra-striped notebook |
 | 130 | Spot the Real One | Which one is a real cinema ticket? | Ticket | Receipt | Bus ticket | Wrapper | Ticket ✅ | 1: real cinema ticket stub ✅; 2: shopping receipt; 3: bus ticket; 4: flattened candy wrapper |
-| 131 | Fan Battle | Choose the best hero type | Superhero | Spy | Wizard | Pirate | — | — |
+| 131 | Fan Battle | Which hero would you rather be? | Superhero | Spy | Wizard | Pirate | — | — |
 | 132 | Fan Battle | Choose the best movie creature | Dragon | Dinosaur | Alien | Robot | — | — |
-| 133 | Fan Battle | Choose the best movie ending | Happy | Sad | Twist | Cliffhanger | — | — |
-| 134 | Fan Battle | Choose the best villain type | Evil genius | Monster | Robot | Sad backstory | — | — |
-| 135 | Food & Lifestyle | Choose your movie screen | Phone | Tablet | TV | Cinema screen | — | — |
-| 136 | Food & Lifestyle | Choose your volume level | Quiet | Normal | Loud | Neighbors complain 💀 | — | — |
-| 137 | Food & Lifestyle | Choose your lights setting | All off | Dim | All on | Fairy lights | — | — |
-| 138 | Food & Lifestyle | Choose what you do during ads | Skip | Snack run | Toilet run | Actually watch 💀 | — | — |
-| 139 | Food & Lifestyle | Choose your rewatch count | Never | Once | A few times | 100+ times 💀 | — | — |
-| 140 | Impossible Choice | Choose one to sit through forever | Ads | Intros | Credits | Recaps | — | — |
-| 141 | Impossible Choice | Choose your only movie power | Skip scenes | Know endings | Delete movies | Live in movies | — | — |
-| 142 | Impossible Choice | Choose how you watch forever | No sound | No color | Tiny screen | Standing up | — | — |
-| 143 | Impossible Choice | Choose one snack banned forever | Popcorn | Candy | Nachos | Drinks | — | — |
-| 144 | Nostalgia Hit | Choose your childhood watch time | Saturday morning | After school | Before bed | All day 💀 | — | — |
-| 145 | Nostalgia Hit | Choose your childhood screen | Big family TV | Bedroom TV | Computer | Cinema | — | — |
-| 146 | Nostalgia Hit | Choose what you fell asleep to | Cartoons | Movies | Music | TV static 💀 | — | — |
-| 147 | Nostalgia Hit | Choose the worst old TV moment | No signal | Scratched DVD | Channel stolen | Bedtime 😭 | — | — |
+| 133 | Fan Battle | What ending do you like best? | Happy ending | Sad ending | Big twist | Cliffhanger | — | — |
+| 134 | Fan Battle | What makes the best villain? | Evil genius | Scary monster | Killer robot | Sad backstory | — | — |
+| 135 | Food & Lifestyle | Where do you watch movies most? | Phone | Tablet | TV | Cinema screen | — | — |
+| 136 | Food & Lifestyle | How loud do you watch movies? | Quiet | Normal | Loud | Neighbors complain 💀 | — | — |
+| 137 | Food & Lifestyle | Do you watch with the lights on? | All off | Dim | All on | Fairy lights | — | — |
+| 138 | Food & Lifestyle | What do you do when ads start? | Skip | Grab snacks | Toilet run | Actually watch 💀 | — | — |
+| 139 | Food & Lifestyle | How many times do you rewatch movies? | Never | Once | A few times | 100+ times 💀 | — | — |
+| 140 | Impossible Choice | What would you sit through forever? | Ads | Intros | Credits | Recaps | — | — |
+| 141 | Impossible Choice | Which movie power would you pick? | Skip scenes | Know endings | Delete movies | Live in movies | — | — |
+| 142 | Impossible Choice | How would you watch movies forever? | No sound | No color | Tiny screen | Standing up | — | — |
+| 143 | Impossible Choice | Which snack would you ban forever? | Popcorn | Candy | Nachos | Drinks | — | — |
+| 144 | Nostalgia Hit | When did you watch TV as a kid? | Saturday morning | After school | Before bed | All day 💀 | — | — |
+| 145 | Nostalgia Hit | What did you watch on as a kid? | Big family TV | Bedroom TV | Computer | Cinema | — | — |
+| 146 | Nostalgia Hit | What did you fall asleep to as a kid? | Cartoons | Movies | Music | TV static 💀 | — | — |
+| 147 | Nostalgia Hit | What was the worst old TV moment? | No signal | Scratched DVD | Channel stolen | Bedtime 😭 | — | — |
 | 148 | Debate Bait | Are cartoons only for kids? | Yes | No | Adults too | I'm the proof 💀 | — | — |
 | 149 | Debate Bait | Is skipping the intro a crime? | Yes | No | Always skip | What intro | — | — |
 | 150 | Debate Bait | Is crying at movies embarrassing? | Yes | No | I never cry | I always cry 💀 | — | — |
@@ -186,25 +186,25 @@
 | 155 | Too-Easy Knowledge | What is one episode part of? | A series | A cereal | A sandwich | A song | A series ✅ | — |
 | 156 | Too-Easy Knowledge | What rolls at the end of movies? | Credits | Dice | Popcorn | A ball | Credits ✅ | — |
 | 157 | Fan Battle | Choose the best movie scene | Car chase | Big battle | Plot twist | Dance scene | — | — |
-| 158 | Fan Battle | Choose the best character role | The hero | The villain | The funny one | The sidekick | — | — |
-| 159 | Fan Battle | Choose the best movie world | Space | Underwater | Magic kingdom | Dinosaur island | — | — |
-| 160 | Fan Battle | Choose the best animal actor | Dogs | Cats | Horses | Monkeys | — | — |
+| 158 | Fan Battle | Which character do you like most? | The hero | The villain | The funny one | The sidekick | — | — |
+| 159 | Fan Battle | Where should a movie happen? | In space | Underwater | Magic kingdom | Dinosaur island | — | — |
+| 160 | Fan Battle | Which animal is best in movies? | Dogs | Cats | Horses | Monkeys | — | — |
 | 161 | Fan Battle | Choose the best movie vehicle | Flying car | Spaceship | Time machine | Talking car | — | — |
-| 162 | Food & Lifestyle | Choose your subtitle setting | Always on | Always off | Loud parts only | Huge subtitles 💀 | — | — |
-| 163 | Food & Lifestyle | Choose your movie pick time | Instant | 10 minutes | An hour | Never decide 💀 | — | — |
-| 164 | Food & Lifestyle | Choose your pause reason | Toilet | Snacks | Phone call | Never pause 💀 | — | — |
-| 165 | Food & Lifestyle | Choose your spoiler defense | Mute words | Avoid internet | Watch fast | I spoil myself 💀 | — | — |
-| 166 | Food & Lifestyle | Choose your watching position | Sitting | Lying down | Upside down | On the floor | — | — |
-| 167 | Impossible Choice | Choose one gone forever | Movie music | Funny scenes | Happy endings | Plot twists | — | — |
-| 168 | Impossible Choice | Choose your cinema seat forever | Front row | Behind tall person | Next to talker | Sticky floor 💀 | — | — |
-| 169 | Impossible Choice | Choose your 24-hour marathon | Cartoons | Horror | Romance | Documentaries | — | — |
-| 170 | Impossible Choice | Choose who picks movies forever | Parents | Little sibling | Random button | Your enemy 💀 | — | — |
-| 171 | Impossible Choice | Choose your movie life role | Hero | Villain | Sidekick | Background extra 💀 | — | — |
-| 172 | Nostalgia Hit | Choose the best sick-day watch | Cartoons all day | Movies all day | Game shows | Sleep instead | — | — |
-| 173 | Nostalgia Hit | Choose your childhood movie fear | Monster scenes | Dark scenes | Sad scenes | Nothing scared me 💀 | — | — |
-| 174 | Nostalgia Hit | Choose your TV crime as a kid | Stayed up late | Sat too close | Volume sneaking | Faked sleeping | — | — |
-| 175 | Nostalgia Hit | Choose what you rewatched most | One movie | One cartoon | One episode | Everything | — | — |
-| 176 | Nostalgia Hit | Choose the best family movie night | Friday | Saturday | Sunday | Every night | — | — |
+| 162 | Food & Lifestyle | Do you watch with subtitles on? | Always on | Always off | Loud parts only | Huge subtitles 💀 | — | — |
+| 163 | Food & Lifestyle | How long do you pick a movie? | Instant | 10 minutes | An hour | Never decide 💀 | — | — |
+| 164 | Food & Lifestyle | Why do you pause a movie? | Toilet | Snacks | Phone call | Never pause 💀 | — | — |
+| 165 | Food & Lifestyle | How do you avoid spoilers? | Mute words | Avoid internet | Watch fast | I spoil myself 💀 | — | — |
+| 166 | Food & Lifestyle | How do you sit while watching? | Sitting | Lying down | Upside down | On the floor | — | — |
+| 167 | Impossible Choice | What would you delete from movies forever? | Movie music | Funny scenes | Happy endings | Plot twists | — | — |
+| 168 | Impossible Choice | Which cinema seat would you take forever? | Front row | Behind tall person | Next to talker | Sticky floor 💀 | — | — |
+| 169 | Impossible Choice | What would you watch for 24 hours? | Cartoons | Horror | Romance | Documentaries | — | — |
+| 170 | Impossible Choice | Who picks your movies forever? | Parents | Little sibling | Random button | Your enemy 💀 | — | — |
+| 171 | Impossible Choice | Who would you be in a movie? | Hero | Villain | Sidekick | Background extra 💀 | — | — |
+| 172 | Nostalgia Hit | What did you watch when sick as a kid? | Cartoons all day | Movies all day | Game shows | Sleep instead | — | — |
+| 173 | Nostalgia Hit | What scared you in movies as a kid? | Monster scenes | Dark scenes | Sad scenes | Nothing scared me 💀 | — | — |
+| 174 | Nostalgia Hit | What did you do to watch TV as a kid? | Stayed up late | Sat too close | Turned volume down | Faked sleeping | — | — |
+| 175 | Nostalgia Hit | What did you rewatch most as a kid? | One movie | One cartoon | One episode | Everything | — | — |
+| 176 | Nostalgia Hit | When is family movie night? | Friday | Saturday | Sunday | Every night | — | — |
 | 177 | Debate Bait | Do trailers spoil too much? | Yes | No | I skip them | Trailers lie 💀 | — | — |
 | 178 | Debate Bait | Is the front row that bad? | Yes | No | Best seats 💀 | Never tried | — | — |
 | 179 | Debate Bait | Should phones be banned in cinemas? | Yes | No | Silent is fine | I'm the texter 💀 | — | — |
@@ -220,26 +220,26 @@
 | 184 | Too-Easy Knowledge | What does a cameraman hold? | Camera | Cake | Ladder | Fish | Camera ✅ | — |
 | 185 | Too-Easy Knowledge | Where do actors get famous? | Hollywood | The gym | The moon | My street | Hollywood ✅ | — |
 | 186 | Too-Easy Knowledge | What is a movie's name called? | Title | Nickname | Password | Label | Title ✅ | — |
-| 187 | Fan Battle | Choose the best plot twist | Secret twin | Was a dream | Villain wins | Time loop | — | — |
+| 187 | Fan Battle | Which movie twist is the best? | Secret twin | It was a dream | Villain wins | Time loop | — | — |
 | 188 | Fan Battle | Choose the best super suit color | Red | Black | Blue | Gold | — | — |
 | 189 | Fan Battle | Choose the best movie pet | Talking parrot | Loyal dog | Magic cat | Baby dragon | — | — |
 | 190 | Fan Battle | Choose the best fight scene | Sword fight | Kung fu | Space battle | Food fight | — | — |
-| 191 | Fan Battle | Choose the best opening scene | Explosion | Mystery | Song | Waking up 💀 | — | — |
-| 192 | Food & Lifestyle | Choose your snack timing | Gone before start 💀 | First half | Whole movie | Save for end | — | — |
-| 193 | Food & Lifestyle | Choose your phone rule | Off | Silent | Scrolling 💀 | What rule | — | — |
-| 194 | Food & Lifestyle | Choose your ending reaction | Cry | Clap | Sit in silence | Instantly Google | — | — |
-| 195 | Food & Lifestyle | Choose your watch speed | Normal | 1.5x | 2x 💀 | Slow motion | — | — |
-| 196 | Food & Lifestyle | Choose your movie memory | Remember everything | Forget in a day | Only funny parts | What movie 💀 | — | — |
-| 197 | Impossible Choice | Choose your forever movie buddy | Talker | Snack stealer | Sleeper | Spoiler 💀 | — | — |
-| 198 | Impossible Choice | Choose one genre banned forever | Comedy | Action | Animation | Sci-fi | — | — |
-| 199 | Impossible Choice | Choose your movie curse | Always spoiled | Always interrupted | Always sleepy | No snacks ever | — | — |
-| 200 | Impossible Choice | Choose your movies forever | Only sequels | Only remakes | Only musicals | Only silent films | — | — |
-| 201 | Impossible Choice | Choose the movie you must survive | Horror house | Dino island | Space crash | Zombie city | — | — |
-| 202 | Nostalgia Hit | Choose your childhood watch snack | Cereal | Juice box | Cookies | Stolen candy 💀 | — | — |
-| 203 | Nostalgia Hit | Choose your cartoon wake-up time | 6 AM | 7 AM | 8 AM | Noon 💀 | — | — |
-| 204 | Nostalgia Hit | Choose your remote war rival | Sibling | Dad | Mom | Grandma 💀 | — | — |
-| 205 | Nostalgia Hit | Choose what ruined movie night | Fell asleep | Power cut | Bedtime | Sibling changed it | — | — |
-| 206 | Nostalgia Hit | Choose your childhood dream job | Actor | Cartoon voice | Stunt double | Movie star's pet 💀 | — | — |
+| 191 | Fan Battle | How should a movie start? | Big explosion | A mystery | A song | Someone waking up 💀 | — | — |
+| 192 | Food & Lifestyle | When do your snacks run out? | Before it starts 💀 | First half | They last | Saved for the end | — | — |
+| 193 | Food & Lifestyle | Where is your phone during a movie? | Turned off | On silent | In my hand 💀 | I'm scrolling | — | — |
+| 194 | Food & Lifestyle | What do you do when a movie ends? | Cry | Clap | Sit in silence | Google the ending | — | — |
+| 195 | Food & Lifestyle | How fast do you watch movies? | Normal | 1.5x | 2x 💀 | Slow motion | — | — |
+| 196 | Food & Lifestyle | Do you remember movies after watching? | All of it | Forget in a day | Only funny parts | What movie 💀 | — | — |
+| 197 | Impossible Choice | Who would you watch movies with forever? | A talker | A snack stealer | A sleeper | A spoiler 💀 | — | — |
+| 198 | Impossible Choice | Which type of movie would you ban? | Comedy | Action | Cartoons | Space movies | — | — |
+| 199 | Impossible Choice | Which would you put up with forever? | Always spoiled | Always interrupted | Always sleepy | Never any snacks | — | — |
+| 200 | Impossible Choice | What would you watch forever? | Only sequels | Only remakes | Only musicals | Only silent movies | — | — |
+| 201 | Impossible Choice | Which movie would you survive? | Haunted house | Dinosaur island | Space crash | Zombie city | — | — |
+| 202 | Nostalgia Hit | What did you snack on as a kid? | Cereal | Juice box | Cookies | Stolen candy 💀 | — | — |
+| 203 | Nostalgia Hit | How early did you wake up for cartoons? | 6 AM | 7 AM | 8 AM | Noon 💀 | — | — |
+| 204 | Nostalgia Hit | Who stole the remote from you? | Sibling | Dad | Mom | Grandma 💀 | — | — |
+| 205 | Nostalgia Hit | What ruined movie night as a kid? | Fell asleep | Power cut | Bedtime | Sibling changed it | — | — |
+| 206 | Nostalgia Hit | What movie job did you want as a kid? | Actor | Cartoon voice | Stunt double | None of them | — | — |
 | 207 | Debate Bait | Do movies need to be 3 hours? | Yes | No | 90 minutes max | Even longer 💀 | — | — |
 | 208 | Debate Bait | Is watching alone better? | Yes | No | Depends | Friends ruin movies 💀 | — | — |
 | 209 | Debate Bait | Are sad endings better? | Yes | No | Happy only | I pretend they're happy | — | — |
