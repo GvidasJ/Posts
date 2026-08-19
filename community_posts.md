@@ -457,3 +457,42 @@ Based on the channel's top Shorts: spotting liars, composure vs loudness, respec
 | 389 | Debate Bait | CHOOSE YOUR FAVORITE TAKE ON WHITE LIES | FINE | NEVER OK | DEPENDS | I DO IT 💀 | — | — |
 | 390 | Debate Bait | CHOOSE YOUR FAVORITE TAKE ON LOUD PEOPLE | FUN | ANNOYING | INSECURE | DEPENDS | — | — |
 | 391 | Debate Bait | CHOOSE YOUR FAVORITE TAKE ON FIRST IMPRESSIONS | ALWAYS RIGHT | ALWAYS WRONG | SOMETIMES | NEVER JUDGE | — | — |
+
+## Batch 14 — 2026-08-19 (IMAGE POLLS — brands & products, based on channel's live Community data)
+
+Channel data (TheOlympusMind Community tab, checked 2026-08-19): image polls of recognizable brands/products get 3-6x the votes of text polls.
+Chocolate bars 509 votes · Drinks 306 · Time of day 164 · Console 162 — vs text polls 54-91 votes.
+All polls below are IMAGE polls. 3 options performed best; 4 also works.
+
+| # | Type | Question | Option 1 | Option 2 | Option 3 | Option 4 | Correct (if any) | Image notes (if any) |
+|---|------|----------|----------|----------|----------|----------|------------------|----------------------|
+| 392 | Fan Battle | CHOOSE YOUR FAVORITE CHIPS | LAYS | PRINGLES | DORITOS | — | — | Front-facing shot of each bag/tube on plain background |
+| 393 | Fan Battle | CHOOSE YOUR FAVORITE COOKIE | OREO | CHIPS AHOY | BISCOFF | — | — | Pack shot plus one loose cookie for each |
+| 394 | Fan Battle | CHOOSE YOUR FAVORITE ENERGY DRINK | RED BULL | MONSTER | PRIME | — | — | Single chilled can/bottle of each, same angle |
+| 395 | Fan Battle | CHOOSE YOUR FAVORITE SNEAKER BRAND | NIKE | ADIDAS | PUMA | — | — | One clean white sneaker per brand, side profile |
+| 396 | Fan Battle | CHOOSE YOUR FAVORITE ICE CREAM BRAND | MAGNUM | CORNETTO | BEN & JERRY'S | — | — | Product shot: Magnum bar, Cornetto cone, B&J tub |
+| 397 | Fan Battle | CHOOSE YOUR FAVORITE COFFEE SHOP | STARBUCKS | COSTA | DUNKIN | — | — | Branded takeaway cup for each, held or on table |
+| 398 | Fan Battle | CHOOSE YOUR FAVORITE CAR BRAND | BMW | MERCEDES | AUDI | — | — | Front 3/4 shot of a modern sedan per brand, same color |
+| 399 | Fan Battle | CHOOSE YOUR FAVORITE SUPERCAR | FERRARI | LAMBORGHINI | BUGATTI | — | — | Side profile of one flagship model each, bright color |
+| 400 | Fan Battle | CHOOSE YOUR FAVORITE STREAMING SERVICE | NETFLIX | DISNEY+ | PRIME VIDEO | — | — | App logo tile for each on identical dark background |
+| 401 | Fan Battle | CHOOSE YOUR FAVORITE TOY BRAND | LEGO | HOT WHEELS | BARBIE | — | — | Iconic product shot: Lego bricks, a Hot Wheels car, a Barbie doll |
+| 402 | Fan Battle | CHOOSE YOUR FAVORITE HEADPHONES | AIRPODS | BEATS | SONY | — | — | Product shot of each on plain white background |
+| 403 | Fan Battle | CHOOSE YOUR FAVORITE WATCH BRAND | ROLEX | CASIO | APPLE WATCH | — | — | Watch face straight on, same crop for all three |
+| 404 | Fan Battle | CHOOSE YOUR FAVORITE FOOTBALL CLUB | REAL MADRID | BARCELONA | MAN UNITED | — | — | Club crest or home jersey, same size and angle |
+| 405 | Food & Lifestyle | CHOOSE YOUR FAVORITE SAUCE | KETCHUP | MAYO | BBQ | MUSTARD | — | Squeeze bottle or a dip bowl of each sauce |
+| 406 | Food & Lifestyle | CHOOSE YOUR FAVORITE MILKSHAKE | CHOCOLATE | VANILLA | STRAWBERRY | OREO | — | Tall glass of each shake with straw, matching glasses |
+| 407 | Food & Lifestyle | CHOOSE YOUR FAVORITE DONUT | GLAZED | CHOCOLATE | SPRINKLES | — | — | Single donut per image, top-down on plain background |
+| 408 | Food & Lifestyle | CHOOSE YOUR FAVORITE CAKE | CHOCOLATE | CHEESECAKE | RED VELVET | — | — | One cut slice of each on a white plate |
+| 409 | Food & Lifestyle | CHOOSE YOUR FAVORITE PIZZA | PEPPERONI | MARGHERITA | BBQ CHICKEN | HAWAIIAN | — | Whole pizza top-down, same size and lighting |
+| 410 | Food & Lifestyle | CHOOSE YOUR FAVORITE FRIES | MCDONALD'S | BURGER KING | KFC | — | — | Branded fries carton from each chain |
+| 411 | Food & Lifestyle | CHOOSE YOUR FAVORITE JUICE | ORANGE | APPLE | MANGO | — | — | Full glass of each juice with the matching fruit beside it |
+| 412 | Food & Lifestyle | CHOOSE YOUR FAVORITE TEA | GREEN | BLACK | MINT | — | — | Clear glass cup of each tea so the color reads |
+| 413 | Food & Lifestyle | CHOOSE YOUR FAVORITE COFFEE DRINK | ESPRESSO | LATTE | CAPPUCCINO | ICED COFFEE | — | Each drink in its typical cup, same background |
+| 414 | Food & Lifestyle | CHOOSE YOUR FAVORITE PASTA SHAPE | SPAGHETTI | PENNE | FUSILLI | — | — | Cooked bowl of each shape, top-down |
+| 415 | Food & Lifestyle | CHOOSE YOUR FAVORITE BREAD | WHITE | BROWN | BAGUETTE | — | — | One loaf per image on a wooden board |
+| 416 | Food & Lifestyle | CHOOSE YOUR FAVORITE CHEESE | CHEDDAR | MOZZARELLA | BLUE CHEESE | — | — | Wedge or ball of each cheese, plain background |
+| 417 | Food & Lifestyle | CHOOSE YOUR FAVORITE BERRY | STRAWBERRY | BLUEBERRY | RASPBERRY | — | — | Small pile of each berry, macro shot |
+| 418 | Fan Battle | CHOOSE YOUR FAVORITE BABY ANIMAL | PUPPY | KITTEN | DUCKLING | BUNNY | — | Cute close-up of each baby animal, same soft lighting |
+| 419 | Fan Battle | CHOOSE YOUR FAVORITE VIEW | BEACH | MOUNTAINS | CITY LIGHTS | FOREST | — | Wide landscape photo of each scene |
+| 420 | Food & Lifestyle | CHOOSE YOUR FAVORITE ROOM | BEDROOM | KITCHEN | LIVING ROOM | BATHROOM | — | Tidy modern interior shot of each room |
+| 421 | Food & Lifestyle | CHOOSE YOUR FAVORITE SHOE TYPE | SNEAKERS | BOOTS | SANDALS | SLIPPERS | — | One pair per image, same angle and background |
