@@ -245,3 +245,38 @@
 | 209 | Debate Bait | Are sad endings better? | Yes | No | Happy only | I pretend they're happy | — | — |
 | 210 | Debate Bait | Is rewatching better than new movies? | Yes | No | Both | New is scary 💀 | — | — |
 | 211 | Debate Bait | Is popcorn overrated? | Yes 💀 | No | It's perfect | Nachos win | — | — |
+
+## Batch 8 — 2026-08-19 (Movies & TV Experience III, text-only)
+
+| # | Type | Question | Option 1 | Option 2 | Option 3 | Option 4 | Correct (if any) | Image notes (if any) |
+|---|------|----------|----------|----------|----------|----------|------------------|----------------------|
+| 212 | Too-Easy Knowledge | What do you need to enter a cinema? | A ticket | A passport | A diploma | A ladder | A ticket ✅ | — |
+| 213 | Too-Easy Knowledge | What do you wear for a 3D movie? | Special glasses | Gloves | A helmet | Swim goggles | Special glasses ✅ | — |
+| 214 | Too-Easy Knowledge | What is a movie's story called? | The plot | The recipe | The address | The password | The plot ✅ | — |
+| 215 | Too-Easy Knowledge | What are cartoons made of? | Drawings | Bricks | Sand | Soup | Drawings ✅ | — |
+| 216 | Too-Easy Knowledge | What do movie stars sign for fans? | Autographs | Homework | Cheques | Pizza | Autographs ✅ | — |
+| 217 | Fan Battle | Which movie place is scariest? | Dark forest | Old house | Basement | Hospital | — | — |
+| 218 | Fan Battle | Which sound is scariest in movies? | Creaky door | Whispering | Footsteps | Silence | — | — |
+| 219 | Fan Battle | Which movie friend is best? | Funny one | Smart one | Strong one | Talking animal | — | — |
+| 220 | Fan Battle | Which weather makes movies better? | Rain | Snow | Storm | Sunshine | — | — |
+| 221 | Fan Battle | Which movie costume is coolest? | Superhero suit | Wizard robe | Pirate coat | Spy tuxedo | — | — |
+| 222 | Food & Lifestyle | How do you pick what to watch? | Trailers | Reviews | The thumbnail | Random click | — | — |
+| 223 | Food & Lifestyle | What do you do when a movie's boring? | Turn it off | Skip ahead | Scroll my phone | Finish it anyway | — | — |
+| 224 | Food & Lifestyle | Do you watch the credits? | Always | Never | Extra scenes only | I leave fast | — | — |
+| 225 | Food & Lifestyle | When do you watch movies? | Weekends | Weekdays | Every day | Only holidays | — | — |
+| 226 | Food & Lifestyle | What do you drink during movies? | Soda | Water | Juice | Tea | — | — |
+| 227 | Impossible Choice | What would you rather run out of? | Snacks | Battery | Time | Wi-Fi | — | — |
+| 228 | Impossible Choice | What is worst in a cinema? | Crying baby | Loud eater | Kicking your seat | Phone lights | — | — |
+| 229 | Impossible Choice | What would you give up for a movie? | Sleep | Food | Your bed | Your phone | — | — |
+| 230 | Impossible Choice | Which movie problem is worst? | Bad ending | Boring middle | Too long | No sound | — | — |
+| 231 | Impossible Choice | Who would you watch horror with? | Your mom | Your best friend | Your crush | Alone 💀 | — | — |
+| 232 | Nostalgia Hit | What was your first cinema visit like? | Amazing | Scary | Boring | Don't remember | — | — |
+| 233 | Nostalgia Hit | What did you do in scary scenes? | Covered my eyes | Hid behind a pillow | Left the room | Watched it 💀 | — | — |
+| 234 | Nostalgia Hit | Where did your movies come from? | DVDs | TV channels | Cinema | Downloads 💀 | — | — |
+| 235 | Nostalgia Hit | What did you copy from movies? | Fight moves | Dance moves | Catchphrases | Nothing 💀 | — | — |
+| 236 | Nostalgia Hit | Who took you to the cinema? | Parents | Grandparents | Friends | School trip | — | — |
+| 237 | Debate Bait | Are cartoons better than real actors? | Yes | No | Both are equal | Cartoons win 💀 | — | — |
+| 238 | Debate Bait | Is watching a movie in parts okay? | Yes | No | Only long ones | I never finish 💀 | — | — |
+| 239 | Debate Bait | Subtitles or dubbing? | Subtitles | Dubbing | Neither | I don't care | — | — |
+| 240 | Debate Bait | Is sleeping during a movie rude? | Yes | No | Depends | I always sleep 💀 | — | — |
+| 241 | Debate Bait | Do sequels ruin good movies? | Yes | No | Sometimes | More sequels 💀 | — | — |
