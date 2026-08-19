@@ -315,3 +315,38 @@
 | 269 | Debate Bait | Choose your side on being late | Yes | No | 5 minutes | Always late 💀 | — | — |
 | 270 | Debate Bait | Choose where you squeeze the toothpaste | From the middle | From the end | I don't care | I destroy it 💀 | — | — |
 | 271 | Debate Bait | Choose your side on making your bed | Yes | No | Sometimes | What's a bed 💀 | — | — |
+
+## Batch 10 — 2026-08-19 (General III, text-only)
+
+| # | Type | Question | Option 1 | Option 2 | Option 3 | Option 4 | Correct (if any) | Image notes (if any) |
+|---|------|----------|----------|----------|----------|----------|------------------|----------------------|
+| 272 | Too-Easy Knowledge | Choose the color of the sky | Blue | Green | Brown | Purple | Blue ✅ | — |
+| 273 | Too-Easy Knowledge | Choose where fish live | Water | Trees | Sand | The sky | Water ✅ | — |
+| 274 | Too-Easy Knowledge | Choose the biggest number | 100 | 10 | 5 | 1 | 100 ✅ | — |
+| 275 | Too-Easy Knowledge | Choose what you eat soup with | A spoon | A fork | A comb | A phone | A spoon ✅ | — |
+| 276 | Too-Easy Knowledge | Choose the season with snow | Winter | Summer | Spring | Autumn | Winter ✅ | — |
+| 277 | Fan Battle | Choose your favorite emoji | 😂 | ❤️ | 💀 | 🔥 | — | — |
+| 278 | Fan Battle | Choose the best sport to watch | Football | Basketball | Racing | Boxing | — | — |
+| 279 | Fan Battle | Choose the coolest sea animal | Dolphin | Shark | Octopus | Turtle | — | — |
+| 280 | Fan Battle | Choose the best dessert | Cake | Ice cream | Cookies | Donuts | — | — |
+| 281 | Fan Battle | Choose the best way to travel | Car | Bike | Train | Plane | — | — |
+| 282 | Food & Lifestyle | Choose how you take your coffee | With sugar | With milk | Black | I don't drink it | — | — |
+| 283 | Food & Lifestyle | Choose what you eat at midnight | Leftovers | Chips | Cereal | Nothing | — | — |
+| 284 | Food & Lifestyle | Choose how long you shower | 5 minutes | 15 minutes | 30 minutes | An hour 💀 | — | — |
+| 285 | Food & Lifestyle | Choose your usual phone battery level | 100% | 50% | 20% | 1% 💀 | — | — |
+| 286 | Food & Lifestyle | Choose how many pillows you use | One | Two | Three | A whole pile 💀 | — | — |
+| 287 | Impossible Choice | Choose what you would rather do forever | Walk everywhere | 5 AM wake-ups | One meal daily | No Wi-Fi ever | — | — |
+| 288 | Impossible Choice | Choose the age you would stay forever | 10 | 18 | 25 | 40 | — | — |
+| 289 | Impossible Choice | Choose the worst fear | Heights | Spiders | Deep water | Small spaces | — | — |
+| 290 | Impossible Choice | Choose the animal you would swap with | A cat | A bird | A fish | A dog | — | — |
+| 291 | Impossible Choice | Choose what you would rather have | No homework ever | No chores ever | No bills ever | No alarms ever | — | — |
+| 292 | Nostalgia Hit | Choose what scared you as a kid | The dark | Monsters | The basement | Nothing 💀 | — | — |
+| 293 | Nostalgia Hit | Choose what you did after school | Played outside | Watched TV | Homework | Napped | — | — |
+| 294 | Nostalgia Hit | Choose your favorite childhood snack | Chocolate | Chips | Fruit | Candy | — | — |
+| 295 | Nostalgia Hit | Choose the best school day | Monday | Friday | Field trip day | Last day 💀 | — | — |
+| 296 | Nostalgia Hit | Choose what you drew as a kid | Houses | Animals | Stick people | The sun | — | — |
+| 297 | Debate Bait | Choose your side on socks with sandals | Fine | Never | Only at home | I do it 💀 | — | — |
+| 298 | Debate Bait | Choose your side on tomatoes | A fruit | A vegetable | Both | I hate them | — | — |
+| 299 | Debate Bait | Choose your side on morning people | They're lying | They're real | I'm one | Never met one 💀 | — | — |
+| 300 | Debate Bait | Choose your side on group chats | Love them | Mute them | Leave them | I never reply 💀 | — | — |
+| 301 | Debate Bait | Choose your side on pizza crust | Eat it | Leave it | Dip it | Crust is best | — | — |
