@@ -280,3 +280,38 @@
 | 239 | Debate Bait | Subtitles or dubbing? | Subtitles | Dubbing | Neither | I don't care | — | — |
 | 240 | Debate Bait | Is sleeping during a movie rude? | Yes | No | Depends | I always sleep 💀 | — | — |
 | 241 | Debate Bait | Do sequels ruin good movies? | Yes | No | Sometimes | More sequels 💀 | — | — |
+
+## Batch 9 — 2026-08-19 (Most General — universal, text-only)
+
+| # | Type | Question | Option 1 | Option 2 | Option 3 | Option 4 | Correct (if any) | Image notes (if any) |
+|---|------|----------|----------|----------|----------|----------|------------------|----------------------|
+| 242 | Too-Easy Knowledge | How many months are in a year? | 12 | 10 | 7 | 365 | 12 ✅ | — |
+| 243 | Too-Easy Knowledge | What do you drink when thirsty? | Water | Sand | Air | Rocks | Water ✅ | — |
+| 244 | Too-Easy Knowledge | Which one is hot? | Fire | Ice | Snow | A fridge | Fire ✅ | — |
+| 245 | Too-Easy Knowledge | What comes after Monday? | Tuesday | Friday | January | Winter | Tuesday ✅ | — |
+| 246 | Too-Easy Knowledge | How many wheels does a bike have? | 2 | 3 | 4 | 10 | 2 ✅ | — |
+| 247 | Fan Battle | Do you prefer day or night? | Day | Night | Sunrise | Sunset | — | — |
+| 248 | Fan Battle | Which color is the best? | Blue | Red | Black | Green | — | — |
+| 249 | Fan Battle | Which number is the luckiest? | 7 | 3 | 13 | 100 | — | — |
+| 250 | Fan Battle | Beach or pool? | Beach | Pool | Lake | Neither | — | — |
+| 251 | Fan Battle | Which is the best day of the week? | Friday | Saturday | Sunday | Monday 💀 | — | — |
+| 252 | Food & Lifestyle | What's on your pizza? | Cheese | Pepperoni | Veggies | Everything | — | — |
+| 253 | Food & Lifestyle | Do you eat breakfast? | Every day | Sometimes | Never | Only weekends | — | — |
+| 254 | Food & Lifestyle | How much water do you drink? | A lot | Enough | Barely any | Only soda 💀 | — | — |
+| 255 | Food & Lifestyle | What wakes you up? | Alarm | Sunlight | My phone | Nothing 💀 | — | — |
+| 256 | Food & Lifestyle | What do you do first in the morning? | Check my phone | Brush teeth | Eat | Sleep more 💀 | — | — |
+| 257 | Impossible Choice | What would you rather be? | Rich | Famous | Healthy | Lucky | — | — |
+| 258 | Impossible Choice | What would you rather never do again? | Cook | Clean | Homework | Wake up early | — | — |
+| 259 | Impossible Choice | Which would you rather have more of? | Time | Money | Friends | Sleep | — | — |
+| 260 | Impossible Choice | What would you hate to lose? | Your keys | Your phone | Your wallet | Your memory 💀 | — | — |
+| 261 | Impossible Choice | What would you rather always be? | Always hot | Always cold | Always tired | Always hungry | — | — |
+| 262 | Nostalgia Hit | What job did you want as a kid? | Astronaut | Doctor | Singer | Superhero | — | — |
+| 263 | Nostalgia Hit | What did you hate most at school? | Homework | Exams | Waking up early | Group projects | — | — |
+| 264 | Nostalgia Hit | What did you collect as a kid? | Stickers | Cards | Coins | Rocks | — | — |
+| 265 | Nostalgia Hit | How did you get to school? | Walked | Bus | Car | Bike | — | — |
+| 266 | Nostalgia Hit | What was your first phone? | A brick | A flip phone | A touchscreen | Still waiting 💀 | — | — |
+| 267 | Debate Bait | Is breakfast the best meal? | Yes | No | Lunch wins | Dinner wins | — | — |
+| 268 | Debate Bait | Should shoes stay on inside? | Yes | No | Only guests | Always barefoot | — | — |
+| 269 | Debate Bait | Is it okay to be late? | Yes | No | 5 minutes | Always late 💀 | — | — |
+| 270 | Debate Bait | Where do you squeeze the toothpaste? | From the middle | From the end | I don't care | I destroy it 💀 | — | — |
+| 271 | Debate Bait | Should you make your bed daily? | Yes | No | Sometimes | What's a bed 💀 | — | — |
