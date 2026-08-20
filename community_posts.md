@@ -496,3 +496,21 @@ All polls below are IMAGE polls. 3 options performed best; 4 also works.
 | 419 | Fan Battle | CHOOSE YOUR FAVORITE VIEW | BEACH | MOUNTAINS | CITY LIGHTS | FOREST | — | Wide landscape photo of each scene |
 | 420 | Food & Lifestyle | CHOOSE YOUR FAVORITE ROOM | BEDROOM | KITCHEN | LIVING ROOM | BATHROOM | — | Tidy modern interior shot of each room |
 | 421 | Food & Lifestyle | CHOOSE YOUR FAVORITE SHOE TYPE | SNEAKERS | BOOTS | SANDALS | SLIPPERS | — | One pair per image, same angle and background |
+
+## Batch 15 — 2026-08-19 (ENGAGEMENT BAIT — options are the call to action)
+
+Voting IS the conversion: each option is an action (like, comment, share, subscribe).
+Best used pinned, or posted right after a Short goes viral while new viewers are landing on the channel.
+
+| # | Type | Question | Option 1 | Option 2 | Option 3 | Option 4 | Correct (if any) | Image notes (if any) |
+|---|------|----------|----------|----------|----------|----------|------------------|----------------------|
+| 422 | Engagement Bait | CHOOSE YOUR FAVORITE WAY TO INTERACT | LIKE | COMMENT | SHARE | SUBSCRIBE | — | — |
+| 423 | Engagement Bait | CHOOSE YOUR FAVORITE WAY TO SUPPORT US | LIKE | SUBSCRIBE | SHARE | WATCH DAILY | — | — |
+| 424 | Engagement Bait | CHOOSE YOUR FAVORITE BUTTON | LIKE | SUBSCRIBE | BELL | SKIP 💀 | — | — |
+| 425 | Engagement Bait | CHOOSE YOUR FAVORITE THING TO DO FIRST | WATCH | LIKE | COMMENT | SUBSCRIBE | — | — |
+| 426 | Engagement Bait | CHOOSE YOUR FAVORITE REASON YOU'RE HERE | THE SHORTS | THE STORIES | THE LESSONS | JUST SCROLLING 💀 | — | — |
+| 427 | Engagement Bait | CHOOSE YOUR FAVORITE SUBSCRIBER TYPE | NEW HERE | OLD FAN | NOT SUBBED 💀 | JUST PASSING | — | — |
+| 428 | Engagement Bait | CHOOSE YOUR FAVORITE NOTIFICATION SETTING | ALL | PERSONALIZED | NONE | WHAT BELL 💀 | — | — |
+| 429 | Engagement Bait | CHOOSE YOUR FAVORITE COMMENT STYLE | LONG COMMENT | ONE WORD | JUST EMOJIS | I NEVER COMMENT 💀 | — | — |
+| 430 | Engagement Bait | CHOOSE YOUR FAVORITE POST TYPE HERE | POLLS | QUESTIONS | PICTURES | MEMES | — | — |
+| 431 | Engagement Bait | CHOOSE YOUR FAVORITE WAY TO SAY HI | COMMENT "HI" | DROP AN EMOJI | LIKE THIS POST | STAY SILENT 💀 | — | — |
