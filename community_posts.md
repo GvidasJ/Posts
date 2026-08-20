@@ -589,3 +589,41 @@ Relatable-humor polls. Work as plain text, but the starred ones hit hardest as I
 | 489 | Meme | CHOOSE YOUR FAVORITE ADULT FEAR | PHONE CALLS | EMAILS | THE DENTIST | MY BANK APP 💀 | — | — |
 | 490 | Meme | CHOOSE YOUR FAVORITE USELESS TALENT | SLEEPING ANYWHERE | EATING FAST | FINDING SNACKS | DOING NOTHING 💀 | — | — |
 | 491 | Meme | CHOOSE YOUR FAVORITE MOM PHRASE | "IN A MINUTE" | "ASK YOUR DAD" | "WE HAVE FOOD" | "CLOSE THE DOOR" | — | — |
+
+## Batch 18 — 2026-08-19 (STATUS CHECK — how the viewer is doing right now)
+
+No thinking required, just self-report — highest-speed votes of any type. Post these at peak audience hours.
+The last four (518-521) double as free audience research: they tell you who is actually on your Community tab.
+
+| # | Type | Question | Option 1 | Option 2 | Option 3 | Option 4 | Correct (if any) | Image notes (if any) |
+|---|------|----------|----------|----------|----------|----------|------------------|----------------------|
+| 492 | Status Check | CHOOSE YOUR MOOD TODAY | 😊 | 😐 | 😭 | 🔥 | — | Strong as images: one giant emoji per tile |
+| 493 | Status Check | CHOOSE YOUR ENERGY RIGHT NOW | FULL | OKAY | LOW | EMPTY 💀 | — | Optional: phone battery icons at 100/50/20/1% |
+| 494 | Status Check | CHOOSE HOW YOU SLEPT LAST NIGHT | GREAT | OKAY | BAD | WHAT SLEEP 💀 | — | — |
+| 495 | Status Check | CHOOSE YOUR STRESS LEVEL | ZERO | A LITTLE | HIGH | MAXIMUM 💀 | — | — |
+| 496 | Status Check | CHOOSE YOUR MOOD IN ONE WORD | HAPPY | TIRED | BORED | STRESSED | — | — |
+| 497 | Status Check | CHOOSE YOUR MUSIC MOOD RIGHT NOW | CHILL | HYPE | SAD | SILENCE | — | — |
+| 498 | Status Check | CHOOSE WHERE YOU ARE RIGHT NOW | HOME | WORK | SCHOOL | IN BED 💀 | — | — |
+| 499 | Status Check | CHOOSE WHAT YOU'RE DOING RIGHT NOW | SCROLLING | EATING | WORKING | AVOIDING SOMETHING 💀 | — | — |
+| 500 | Status Check | CHOOSE YOUR TIME RIGHT NOW | MORNING | AFTERNOON | EVENING | MIDNIGHT 💀 | — | — |
+| 501 | Status Check | CHOOSE YOUR WEATHER RIGHT NOW | SUNNY | CLOUDY | RAINING | SNOWING | — | Strong as images: 4 sky photos |
+| 502 | Status Check | CHOOSE WHO YOU'RE WITH RIGHT NOW | ALONE | FAMILY | FRIENDS | MY PET | — | — |
+| 503 | Status Check | CHOOSE YOUR SCREEN RIGHT NOW | PHONE | LAPTOP | TV | TABLET | — | Strong as images: 4 device photos |
+| 504 | Status Check | CHOOSE YOUR DRINK RIGHT NOW | WATER | COFFEE | TEA | NOTHING | — | — |
+| 505 | Status Check | CHOOSE YOUR OUTFIT RIGHT NOW | PAJAMAS | CASUAL | WORK CLOTHES | NO COMMENT 💀 | — | — |
+| 506 | Status Check | CHOOSE YOUR DAY SO FAR | PERFECT | NORMAL | MESSY | TERRIBLE 💀 | — | — |
+| 507 | Status Check | CHOOSE YOUR WEEK SO FAR | GREAT | FINE | ROUGH | DON'T ASK 💀 | — | — |
+| 508 | Status Check | CHOOSE HOW YOUR DAY ENDED | GREAT | FINE | BAD | STILL GOING | — | — |
+| 509 | Status Check | CHOOSE YOUR HUNGER LEVEL | STUFFED | FINE | HUNGRY | STARVING 💀 | — | — |
+| 510 | Status Check | CHOOSE YOUR LAST MEAL | BREAKFAST | LUNCH | DINNER | I FORGOT 💀 | — | — |
+| 511 | Status Check | CHOOSE HOW MUCH YOU SLEPT | 8+ HOURS | 6 HOURS | 4 HOURS | 2 HOURS 💀 | — | — |
+| 512 | Status Check | CHOOSE YOUR MOTIVATION TODAY | HIGH | MEDIUM | LOW | NONE 💀 | — | — |
+| 513 | Status Check | CHOOSE YOUR PLANS TONIGHT | SLEEP EARLY | WATCH SOMETHING | GO OUT | NO PLANS | — | — |
+| 514 | Status Check | CHOOSE YOUR TOMORROW PLAN | WORK | SCHOOL | REST | NO IDEA | — | — |
+| 515 | Status Check | CHOOSE YOUR CURRENT GOAL | GET FIT | SAVE MONEY | STUDY | SURVIVE 💀 | — | — |
+| 516 | Status Check | CHOOSE WHAT YOU NEED RIGHT NOW | SLEEP | MONEY | A HUG | SNACKS | — | — |
+| 517 | Status Check | CHOOSE YOUR MOOD BOOSTER | MUSIC | FOOD | SLEEP | SCROLLING | — | — |
+| 518 | Status Check | CHOOSE YOUR AGE GROUP | UNDER 18 | 18-25 | 26-40 | 40+ | — | Audience research |
+| 519 | Status Check | CHOOSE YOUR CONTINENT | EUROPE | ASIA | AFRICA | AMERICAS | — | Audience research — pair with flag images |
+| 520 | Status Check | CHOOSE YOUR FIRST LANGUAGE | ENGLISH | SPANISH | HINDI | OTHER | — | Audience research |
+| 521 | Status Check | CHOOSE HOW LONG YOU'VE WATCHED US | TODAY | A WEEK | A FEW MONTHS | SINCE THE START | — | Audience research |
