@@ -627,3 +627,24 @@ The last four (518-521) double as free audience research: they tell you who is a
 | 519 | Status Check | CHOOSE YOUR CONTINENT | EUROPE | ASIA | AFRICA | AMERICAS | — | Audience research — pair with flag images |
 | 520 | Status Check | CHOOSE YOUR FIRST LANGUAGE | ENGLISH | SPANISH | HINDI | OTHER | — | Audience research |
 | 521 | Status Check | CHOOSE HOW LONG YOU'VE WATCHED US | TODAY | A WEEK | A FEW MONTHS | SINCE THE START | — | Audience research |
+
+## Batch 19 — 2026-08-19 (BATTERY POLLS — image polls using battery icons)
+
+One reusable image set powers this entire batch: 4 battery icons — FULL (green), HALF (yellow), LOW (orange), NEARLY DEAD / 0% (red, ideally with a small ⚡ or 💀).
+Make that set once, then reuse it for every poll below by swapping only the question. Same icon style, same size, same background every time.
+Post 525 (Monday) and 526 (Friday) as a matched pair on those days — the contrast between the two result screenshots is itself a Short.
+
+| # | Type | Question | Option 1 | Option 2 | Option 3 | Option 4 | Correct (if any) | Image notes (if any) |
+|---|------|----------|----------|----------|----------|----------|------------------|----------------------|
+| 522 | Status Check | CHOOSE YOUR PHONE BATTERY RIGHT NOW | 100% | 50% | 20% | 1% 💀 | — | Battery icons: green full, yellow half, orange low, red 1% |
+| 523 | Status Check | CHOOSE YOUR SOCIAL BATTERY | 100% | 50% | 20% | 0% 💀 | — | Same battery icon set |
+| 524 | Status Check | CHOOSE YOUR ENERGY BATTERY TODAY | FULL | HALF | LOW | DEAD 💀 | — | Same battery icon set |
+| 525 | Status Check | CHOOSE YOUR MONDAY BATTERY | 100% | 50% | 10% | DEAD 💀 | — | Same set — post on a Monday, pair with 526 |
+| 526 | Status Check | CHOOSE YOUR FRIDAY BATTERY | 100% | 70% | 40% | DEAD 💀 | — | Same set — post on a Friday, pair with 525 |
+| 527 | Status Check | CHOOSE YOUR PATIENCE BATTERY | FULL | HALF | LOW | EMPTY 💀 | — | Same battery icon set |
+| 528 | Status Check | CHOOSE YOUR MOTIVATION BATTERY | CHARGED | CHARGING | LOW | NEEDS REPLACING 💀 | — | Charging icon (⚡) on option 2 |
+| 529 | Status Check | CHOOSE YOUR SLEEP BATTERY | FULLY CHARGED | HALF CHARGED | LOW | NEVER CHARGED 💀 | — | Same battery icon set |
+| 530 | Status Check | CHOOSE YOUR BRAIN BATTERY RIGHT NOW | 100% | 50% | 15% | BUFFERING 💀 | — | Option 4: battery icon with a loading spinner |
+| 531 | Status Check | CHOOSE YOUR WEEKEND BATTERY | RECHARGED | STILL TIRED | WORSE THAN BEFORE | WHAT WEEKEND 💀 | — | Post on a Sunday night |
+| 532 | Meme | CHOOSE YOUR CHARGING HABIT | CHARGE AT 50% | CHARGE AT 20% | CHARGE AT 1% 💀 | ALWAYS PLUGGED IN | — | Phone plugged in at each battery level |
+| 533 | Meme | CHOOSE YOUR PHONE BATTERY HEALTH | PERFECT | GOOD | BAD | DIES INSTANTLY 💀 | — | Battery health screen mockups |
