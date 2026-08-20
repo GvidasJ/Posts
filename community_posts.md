@@ -552,3 +552,40 @@ No niche knowledge, no reading required — the pictures carry the poll.
 | 459 | Food & Lifestyle | CHOOSE YOUR FAVORITE WATER | STILL | SPARKLING | FLAVORED | ICE COLD | — | Clear glass of each, bubbles/ice visible where relevant |
 | 460 | Fan Battle | CHOOSE YOUR FAVORITE MONEY | DOLLAR | EURO | POUND | GOLD BAR | — | Banknote fan for each currency, gold bar for the fourth |
 | 461 | Fan Battle | CHOOSE YOUR FAVORITE DOG SIZE | TINY DOG | SMALL DOG | BIG DOG | HUGE DOG | — | One dog per size class, same framing so scale reads |
+
+## Batch 17 — 2026-08-19 (MEME POLLS — the vote is the punchline)
+
+Relatable-humor polls. Work as plain text, but the starred ones hit hardest as IMAGE polls with meme reaction pictures.
+
+| # | Type | Question | Option 1 | Option 2 | Option 3 | Option 4 | Correct (if any) | Image notes (if any) |
+|---|------|----------|----------|----------|----------|----------|------------------|----------------------|
+| 462 | Meme | CHOOSE YOUR FAVORITE WAY TO SIT | NORMAL | CRISS CROSS | ONE LEG UP | LIKE A GOBLIN 💀 | — | Strong as images: 4 photos of someone sitting each way on the same chair |
+| 463 | Meme | CHOOSE YOUR FAVORITE 3 AM THOUGHT | "AM I DUMB" | "WHAT IF ALIENS" | OLD CRINGE MEMORIES | "I'M HUNGRY" | — | — |
+| 464 | Meme | CHOOSE YOUR FAVORITE INTERNET LIE | "I READ TERMS" | "I'M 18" | "5 MORE MINUTES" | "ON MY WAY" | — | — |
+| 465 | Meme | CHOOSE YOUR FAVORITE MAIN CHARACTER MOMENT | WALKING IN RAIN | STARING OUT WINDOW | SAD SONG PLAYING | SLOW MOTION WALK | — | Strong as images: 4 cinematic stock shots |
+| 466 | Meme | CHOOSE YOUR FAVORITE TYPE OF SILENCE | AWKWARD | PEACEFUL | ANGRY | "WE'RE COOKED" 💀 | — | — |
+| 467 | Meme | CHOOSE YOUR FAVORITE ALARM REACTION | PANIC | SNOOZE | THROW PHONE | SLEEP THROUGH IT 💀 | — | — |
+| 468 | Meme | CHOOSE YOUR FAVORITE FAKE LAUGH | "HAHA" | "LOL" | "💀" | SILENCE | — | — |
+| 469 | Meme | CHOOSE YOUR FAVORITE WAY TO LOSE MONEY | SNACKS | ONLINE SHOPPING | SUBSCRIPTIONS | DON'T ASK 💀 | — | — |
+| 470 | Meme | CHOOSE YOUR FAVORITE EXCUSE | "I'M SICK" | "TRAFFIC" | "I FORGOT" | "WIFI DIED" | — | — |
+| 471 | Meme | CHOOSE YOUR FAVORITE RED FLAG | ALWAYS LATE | NEVER TEXTS BACK | HATES DOGS | STEALS FRIES | — | — |
+| 472 | Meme | CHOOSE YOUR FAVORITE GREEN FLAG | GOOD LISTENER | SHARES FOOD | LOVES ANIMALS | ALWAYS ON TIME | — | — |
+| 473 | Meme | CHOOSE YOUR FAVORITE MEME FACE | 😂 | 💀 | 🗿 | 🤡 | — | Strong as images: large single emoji per tile |
+| 474 | Meme | CHOOSE YOUR FAVORITE WAY TO END A TEXT | "OK" | "K" | "👍" | LEFT ON READ 💀 | — | Strong as images: 4 fake chat screenshots |
+| 475 | Meme | CHOOSE YOUR FAVORITE TYPE OF FRIEND | THE FUNNY ONE | THE MOM FRIEND | THE LATE ONE | THE GHOST 💀 | — | — |
+| 476 | Meme | CHOOSE YOUR FAVORITE USELESS SUPERPOWER | TALK TO FISH | ALWAYS KNOW TIME | SMELL WIFI 💀 | TURN INVISIBLE ONCE | — | — |
+| 477 | Meme | CHOOSE YOUR FAVORITE VILLAIN ORIGIN STORY | NO SNACKS LEFT | SLOW WIFI | GROUP PROJECTS | "SEEN" NO REPLY | — | — |
+| 478 | Meme | CHOOSE YOUR FAVORITE THING TO SAY WHEN CAUGHT | "IT WASN'T ME" | "I CAN EXPLAIN" | "WHO? ME?" | RUN 💀 | — | — |
+| 479 | Meme | CHOOSE YOUR FAVORITE UNIVERSAL PAIN | STEPPING ON LEGO | PAPER CUT | BITING YOUR TONGUE | PHONE ON FACE | — | Strong as images: 4 photos of the exact moment |
+| 480 | Meme | CHOOSE YOUR FAVORITE LIE YOU TELL YOURSELF | "I'LL SLEEP EARLY" | "JUST ONE EPISODE" | "I'LL START MONDAY" | "DO IT LATER" | — | — |
+| 481 | Meme | CHOOSE YOUR FAVORITE MOOD | 😐 | 😂 | 😭 | 🗿 | — | Strong as images: one big emoji per tile |
+| 482 | Meme | CHOOSE YOUR FAVORITE TYPE OF TIRED | SLEEPY TIRED | SOUL TIRED | BORED TIRED | IT'S 3 PM 💀 | — | — |
+| 483 | Meme | CHOOSE YOUR FAVORITE THING THAT'S ALWAYS MISSING | ONE SOCK | A PEN | THE REMOTE | MY MOTIVATION 💀 | — | Strong as images: single sock, lone pen, empty couch, blank frame |
+| 484 | Meme | CHOOSE YOUR FAVORITE WAY TO PROCRASTINATE | SCROLLING | SNACKING | NAPPING | SUDDEN CLEANING | — | — |
+| 485 | Meme | CHOOSE YOUR FAVORITE GROUP CHAT ROLE | THE PLANNER | THE GHOST | THE MEME SENDER | THE "LOL" GUY | — | — |
+| 486 | Meme | CHOOSE YOUR FAVORITE WAY TO ANSWER THE PHONE | "HELLO?" | "YES?" | "WHAT" | I DON'T ANSWER | — | — |
+| 487 | Meme | CHOOSE YOUR FAVORITE THING YOU CAN'T DO | WHISTLE | WINK | SNAP | RAISE ONE EYEBROW | — | — |
+| 488 | Meme | CHOOSE YOUR FAVORITE EMBARRASSING MOMENT | WRONG WAVE | PUBLIC TRIP | "MOM" TO TEACHER | ALL OF THEM 💀 | — | — |
+| 489 | Meme | CHOOSE YOUR FAVORITE ADULT FEAR | PHONE CALLS | EMAILS | THE DENTIST | MY BANK APP 💀 | — | — |
+| 490 | Meme | CHOOSE YOUR FAVORITE USELESS TALENT | SLEEPING ANYWHERE | EATING FAST | FINDING SNACKS | DOING NOTHING 💀 | — | — |
+| 491 | Meme | CHOOSE YOUR FAVORITE MOM PHRASE | "IN A MINUTE" | "ASK YOUR DAD" | "WE HAVE FOOD" | "CLOSE THE DOOR" | — | — |
