@@ -514,3 +514,41 @@ Best used pinned, or posted right after a Short goes viral while new viewers are
 | 429 | Engagement Bait | CHOOSE YOUR FAVORITE COMMENT STYLE | LONG COMMENT | ONE WORD | JUST EMOJIS | I NEVER COMMENT 💀 | — | — |
 | 430 | Engagement Bait | CHOOSE YOUR FAVORITE POST TYPE HERE | POLLS | QUESTIONS | PICTURES | MEMES | — | — |
 | 431 | Engagement Bait | CHOOSE YOUR FAVORITE WAY TO SAY HI | COMMENT "HI" | DROP AN EMOJI | LIKE THIS POST | STAY SILENT 💀 | — | — |
+
+## Batch 16 — 2026-08-19 (GENERAL IMAGE POLLS — modeled on what works on the channel's Posts tab)
+
+Formula copied from the channel's top performers (chocolate bars 509 votes, drinks 306): IMAGE poll + instantly recognizable everyday thing + 3-4 options.
+No niche knowledge, no reading required — the pictures carry the poll.
+
+| # | Type | Question | Option 1 | Option 2 | Option 3 | Option 4 | Correct (if any) | Image notes (if any) |
+|---|------|----------|----------|----------|----------|----------|------------------|----------------------|
+| 432 | Food & Lifestyle | CHOOSE YOUR FAVORITE CANDY | GUMMY BEARS | LOLLIPOP | CHOCOLATE | — | — | Close-up pile of gummy bears, a single lollipop, a chocolate square |
+| 433 | Food & Lifestyle | CHOOSE YOUR FAVORITE CHIP FLAVOR | SALTED | CHEESE | BBQ | SOUR CREAM | — | Open bowl of chips per flavor, matching bowls |
+| 434 | Fan Battle | CHOOSE YOUR FAVORITE DOG BREED | GOLDEN RETRIEVER | HUSKY | PUG | GERMAN SHEPHERD | — | Head-and-shoulders photo of each breed, same soft background |
+| 435 | Fan Battle | CHOOSE YOUR FAVORITE CAT COLOR | ORANGE CAT | BLACK CAT | WHITE CAT | GREY CAT | — | Same pose and crop for each cat so only the color differs |
+| 436 | Fan Battle | CHOOSE YOUR FAVORITE BIG CAT | LION | TIGER | LEOPARD | CHEETAH | — | Face-forward wildlife shot of each |
+| 437 | Fan Battle | CHOOSE YOUR FAVORITE BIRD | EAGLE | OWL | PARROT | PEACOCK | — | Full-body shot of each bird, plain or blurred background |
+| 438 | Fan Battle | CHOOSE YOUR FAVORITE FLOWER | ROSE | SUNFLOWER | TULIP | ORCHID | — | Single bloom per image, macro shot |
+| 439 | Fan Battle | CHOOSE YOUR FAVORITE TREE | PALM | OAK | PINE | CHERRY BLOSSOM | — | One full tree per image against open sky |
+| 440 | Fan Battle | CHOOSE YOUR FAVORITE SKY | SUNRISE | SUNSET | STARS | STORM | — | Wide sky photo for each, no people or landmarks |
+| 441 | Fan Battle | CHOOSE YOUR FAVORITE MOON PHASE | FULL | HALF | CRESCENT | — | — | Night sky shot of each phase, same zoom |
+| 442 | Fan Battle | CHOOSE YOUR FAVORITE GEMSTONE | DIAMOND | RUBY | EMERALD | SAPPHIRE | — | Single cut stone per image on black background |
+| 443 | Fan Battle | CHOOSE YOUR FAVORITE MEDAL | GOLD | SILVER | BRONZE | — | — | One medal on a ribbon per image, same design |
+| 444 | Fan Battle | CHOOSE YOUR FAVORITE SPORTS BALL | FOOTBALL | BASKETBALL | TENNIS BALL | RUGBY BALL | — | One ball per image, plain background, same size in frame |
+| 445 | Fan Battle | CHOOSE YOUR FAVORITE BIKE | MOUNTAIN BIKE | ROAD BIKE | BMX | ELECTRIC BIKE | — | Side profile of each bike, same angle |
+| 446 | Fan Battle | CHOOSE YOUR FAVORITE HOUSE | MODERN HOUSE | CABIN | CASTLE | BEACH HOUSE | — | Exterior shot of each, daylight |
+| 447 | Food & Lifestyle | CHOOSE YOUR FAVORITE CHAIR | GAMING CHAIR | SOFA | BEANBAG | OFFICE CHAIR | — | Product-style shot of each seat, plain background |
+| 448 | Fan Battle | CHOOSE YOUR FAVORITE LAPTOP BRAND | MACBOOK | HP | DELL | LENOVO | — | Open laptop, front angle, logo visible |
+| 449 | Fan Battle | CHOOSE YOUR FAVORITE PHONE COLOR | BLACK | WHITE | GOLD | BLUE | — | Same phone model in each color, back view |
+| 450 | Food & Lifestyle | CHOOSE YOUR FAVORITE SUNGLASSES | AVIATORS | ROUND | SQUARE | SPORT | — | One pair per image, front-on, plain background |
+| 451 | Food & Lifestyle | CHOOSE YOUR FAVORITE HOODIE COLOR | BLACK | GREY | WHITE | RED | — | Same hoodie style in each color, flat lay |
+| 452 | Food & Lifestyle | CHOOSE YOUR FAVORITE SNEAKER COLOR | WHITE | BLACK | RED | MULTICOLOR | — | Same sneaker model in each colorway, side profile |
+| 453 | Fan Battle | CHOOSE YOUR FAVORITE HAIR COLOR | BLACK | BLONDE | BROWN | RED | — | Hair-only close-up swatches, no faces |
+| 454 | Fan Battle | CHOOSE YOUR FAVORITE EYE COLOR | BROWN | BLUE | GREEN | HAZEL | — | Macro shot of one eye per color, same crop |
+| 455 | Food & Lifestyle | CHOOSE YOUR FAVORITE BURGER | CHEESEBURGER | CHICKEN BURGER | DOUBLE BURGER | VEGGIE BURGER | — | Side-on hero shot of each burger, same plate |
+| 456 | Food & Lifestyle | CHOOSE YOUR FAVORITE FAST FOOD MEAL | BURGER MEAL | PIZZA | FRIED CHICKEN | TACOS | — | Full meal shot of each, top-down |
+| 457 | Food & Lifestyle | CHOOSE YOUR FAVORITE PANCAKE TOPPING | SYRUP | NUTELLA | BERRIES | BANANA | — | Same pancake stack with each topping poured or placed on |
+| 458 | Food & Lifestyle | CHOOSE YOUR FAVORITE NOODLE DISH | RAMEN | SPAGHETTI | PAD THAI | INSTANT NOODLES | — | Bowl of each dish, top-down, steam visible |
+| 459 | Food & Lifestyle | CHOOSE YOUR FAVORITE WATER | STILL | SPARKLING | FLAVORED | ICE COLD | — | Clear glass of each, bubbles/ice visible where relevant |
+| 460 | Fan Battle | CHOOSE YOUR FAVORITE MONEY | DOLLAR | EURO | POUND | GOLD BAR | — | Banknote fan for each currency, gold bar for the fourth |
+| 461 | Fan Battle | CHOOSE YOUR FAVORITE DOG SIZE | TINY DOG | SMALL DOG | BIG DOG | HUGE DOG | — | One dog per size class, same framing so scale reads |
