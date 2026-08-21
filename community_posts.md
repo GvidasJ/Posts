@@ -648,3 +648,51 @@ Post 525 (Monday) and 526 (Friday) as a matched pair on those days — the contr
 | 531 | Status Check | CHOOSE YOUR WEEKEND BATTERY | RECHARGED | STILL TIRED | WORSE THAN BEFORE | WHAT WEEKEND 💀 | — | Post on a Sunday night |
 | 532 | Meme | CHOOSE YOUR CHARGING HABIT | CHARGE AT 50% | CHARGE AT 20% | CHARGE AT 1% 💀 | ALWAYS PLUGGED IN | — | Phone plugged in at each battery level |
 | 533 | Meme | CHOOSE YOUR PHONE BATTERY HEALTH | PERFECT | GOOD | BAD | DIES INSTANTLY 💀 | — | Battery health screen mockups |
+
+## Batch 20 — 2026-08-19 (CHOOSE THE RIGHT ONE — copied from @Ainyra_Explains & @FEARLESSVANSH200K)
+
+Competitor data (checked 2026-08-19). Both channels post ONE format only and get 400K-2.5M votes per poll:
+@Ainyra_Explains — sun 2.5M, almond 2.2M, WiFi logo 1.8M, chocolate 1.7M, YouTube logo 1.4M, teeth 1M, watermelon 878K, cashew 991K/562K
+@FEARLESSVANSH200K — watermelon 991K, orange 743K, banana 559K/485K, almond 498K, iPhone logo 428K
+
+Their rules:
+1. Image poll, always. Object everyone knows, photographed/edited in 4 different colours.
+2. One correct option, three ABSURD ones (blue almond, pink cashew, green teeth) — the wrongness is the hook.
+3. Logo polls use A/B/C/D only, no words: the real logo plus 3 subtly altered fakes.
+4. They REPEAT winners weeks apart (cashew twice, banana twice) — reposting the same poll still works.
+5. Polish is irrelevant: Ainyra's 2.5M-vote sun poll listed "Blue" twice as two of its four options.
+
+PRODUCTION: for each colour poll, take ONE photo of the object and recolour it 4 ways. Same photo, same angle, same lighting — only the hue changes. That is the entire job.
+
+| # | Type | Question | Option 1 | Option 2 | Option 3 | Option 4 | Correct (if any) | Image notes (if any) |
+|---|------|----------|----------|----------|----------|----------|------------------|----------------------|
+| 534 | Choose The Right One | CHOOSE THE RIGHT COLOUR OF MILK | WHITE | BLUE | PINK | GREEN | WHITE ✅ | Same glass of milk recoloured 4 ways |
+| 535 | Choose The Right One | CHOOSE THE RIGHT COLOUR OF CARROT | ORANGE | PURPLE | BLUE | BLACK | ORANGE ✅ | Same carrot recoloured 4 ways |
+| 536 | Choose The Right One | CHOOSE THE RIGHT COLOUR OF LEMON | YELLOW | RED | BLUE | BROWN | YELLOW ✅ | Same lemon recoloured 4 ways |
+| 537 | Choose The Right One | CHOOSE THE RIGHT COLOUR OF TOMATO | RED | BLUE | WHITE | PURPLE | RED ✅ | Same tomato recoloured 4 ways |
+| 538 | Choose The Right One | CHOOSE THE RIGHT COLOUR OF CUCUMBER | GREEN | PINK | GREY | ORANGE | GREEN ✅ | Same cucumber recoloured 4 ways |
+| 539 | Choose The Right One | CHOOSE THE RIGHT COLOUR OF EGG YOLK | YELLOW | BLUE | GREEN | BLACK | YELLOW ✅ | Cracked egg, yolk recoloured 4 ways |
+| 540 | Choose The Right One | CHOOSE THE RIGHT COLOUR OF RICE | WHITE | BLUE | RED | BLACK | WHITE ✅ | Same bowl of rice recoloured 4 ways |
+| 541 | Choose The Right One | CHOOSE THE RIGHT COLOUR OF HONEY | GOLDEN | BLUE | GREEN | PINK | GOLDEN ✅ | Honey jar with dipper, recoloured 4 ways |
+| 542 | Choose The Right One | CHOOSE THE RIGHT COLOUR OF ELEPHANT | GREY | PINK | GREEN | BLUE | GREY ✅ | Same elephant photo recoloured 4 ways |
+| 543 | Choose The Right One | CHOOSE THE RIGHT COLOUR OF CROW | BLACK | WHITE | YELLOW | PINK | BLACK ✅ | Same crow photo recoloured 4 ways |
+| 544 | Choose The Right One | CHOOSE THE RIGHT COLOUR OF POLAR BEAR | WHITE | BROWN | BLUE | PINK | WHITE ✅ | Same polar bear recoloured 4 ways |
+| 545 | Choose The Right One | CHOOSE THE RIGHT COLOUR OF OCEAN | BLUE | PURPLE | RED | YELLOW | BLUE ✅ | Same ocean photo recoloured 4 ways |
+| 546 | Choose The Right One | CHOOSE THE RIGHT COLOUR OF FIRE | ORANGE | BLUE | GREEN | PINK | ORANGE ✅ | Same flame photo recoloured 4 ways |
+| 547 | Choose The Right One | CHOOSE THE RIGHT COLOUR OF MANGO | YELLOW | BLUE | PURPLE | GREY | YELLOW ✅ | Same mango recoloured 4 ways |
+| 548 | Choose The Right One | CHOOSE THE RIGHT COLOUR OF PEANUT | BROWN | BLUE | PINK | GREEN | BROWN ✅ | Same peanuts recoloured 4 ways |
+| 549 | Choose The Right One | CHOOSE THE RIGHT SHAPE OF EGG | OVAL | SQUARE | STAR | TRIANGLE | OVAL ✅ | One egg warped into each shape |
+| 550 | Choose The Right One | CHOOSE THE RIGHT SHAPE OF PIZZA | ROUND | TRIANGLE | STAR | HEART | ROUND ✅ | Same pizza reshaped 4 ways, top-down |
+| 551 | Choose The Right One | CHOOSE THE RIGHT SHAPE OF FOOTBALL | ROUND | SQUARE | OVAL | STAR | ROUND ✅ | Same ball warped into each shape |
+| 552 | Choose The Right One | CHOOSE THE RIGHT SHAPE OF DICE | CUBE | BALL | CONE | PYRAMID | CUBE ✅ | Dice with dots rendered in each shape |
+| 553 | Choose The Right One | CHOOSE THE RIGHT SHAPE OF STOP SIGN | OCTAGON | CIRCLE | SQUARE | STAR | OCTAGON ✅ | Red STOP sign in each shape |
+| 554 | Choose The Right One | CHOOSE THE RIGHT SHAPE OF BANANA | CURVED | STRAIGHT | ROUND | ZIGZAG | CURVED ✅ | Same banana warped into each shape |
+| 555 | Choose The Right One | CHOOSE THE RIGHT LOGO OF WHATSAPP | A | B | C | D | A ✅ | A = real; B/C/D = phone icon flipped, wrong green, wrong bubble tail |
+| 556 | Choose The Right One | CHOOSE THE RIGHT LOGO OF INSTAGRAM | A | B | C | D | B ✅ | B = real; others = wrong gradient, square dot, extra ring |
+| 557 | Choose The Right One | CHOOSE THE RIGHT LOGO OF NIKE | A | B | C | D | C ✅ | C = real swoosh; others = mirrored, thicker, wrong curve |
+| 558 | Choose The Right One | CHOOSE THE RIGHT LOGO OF ADIDAS | A | B | C | D | A ✅ | A = real 3 stripes; others = 4 stripes, even stripes, inverted |
+| 559 | Choose The Right One | CHOOSE THE RIGHT LOGO OF MCDONALD'S | A | B | C | D | D ✅ | D = real M; others = wrong arch height, extra arch, wrong yellow |
+| 560 | Choose The Right One | CHOOSE THE RIGHT LOGO OF GOOGLE | A | B | C | D | B ✅ | B = real; others = wrong letter colours in the wordmark |
+| 561 | Choose The Right One | CHOOSE THE RIGHT LOGO OF ANDROID | A | B | C | D | C ✅ | C = real robot; others = wrong antenna count/angle, wrong green |
+| 562 | Choose The Right One | CHOOSE THE RIGHT LOGO OF PEPSI | A | B | C | D | A ✅ | A = real; others = swapped red/blue halves, wrong wave |
+| 563 | Choose The Right One | CHOOSE THE RIGHT LOGO OF BLUETOOTH | A | B | C | D | D ✅ | D = real rune; others = mirrored or with an extra angle |
