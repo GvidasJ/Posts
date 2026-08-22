@@ -889,3 +889,40 @@ The colour-set polls (646-649) are the strongest visually — four tiles sharing
 | 701 | Fan Battle | CHOOSE YOUR FAVORITE CARS CHARACTER | LIGHTNING McQUEEN | MATER | SALLY | DOC HUDSON | — | Character art per tile |
 | 702 | Fan Battle | CHOOSE YOUR FAVORITE MADAGASCAR CHARACTER | ALEX | MARTY | MELMAN | GLORIA | — | Character art per tile |
 | 703 | Fan Battle | CHOOSE YOUR FAVORITE ICE AGE CHARACTER | SID | MANNY | DIEGO | SCRAT | — | Character art per tile |
+
+## Batch 26 — 2026-08-22 (TEXT-ONLY POLLS — no images to produce)
+
+Post straight to the Community tab as-is. Psychology/behaviour flavoured to match TheOlympusMind's Shorts, but universal enough for anyone.
+
+| # | Type | Question | Option 1 | Option 2 | Option 3 | Option 4 | Correct (if any) | Image notes (if any) |
+|---|------|----------|----------|----------|----------|----------|------------------|----------------------|
+| 704 | People & Talking | CHOOSE YOUR FAVORITE WAY TO START A CONVERSATION | "HEY" | A QUESTION | A JOKE | NEVER START ONE | — | Text poll |
+| 705 | People & Talking | CHOOSE YOUR FAVORITE LIE PEOPLE TELL | "I'M FINE" | "ON MY WAY" | "NO OFFENSE" | "I'LL BE QUICK" | — | Text poll |
+| 706 | People & Talking | CHOOSE YOUR FAVORITE WAY TO SAY NO | JUST SAY IT | MAKE AN EXCUSE | IGNORE IT | NEVER SAY NO 💀 | — | Text poll |
+| 707 | People & Talking | CHOOSE YOUR FAVORITE COMPLIMENT TO GET | "YOU'RE SMART" | "YOU'RE KIND" | "YOU'RE FUNNY" | "YOU CHANGED" | — | Text poll |
+| 708 | People & Talking | CHOOSE YOUR FAVORITE APOLOGY | "I'M SORRY" | A CHANGED HABIT | A GIFT | NO APOLOGY NEEDED | — | Text poll |
+| 709 | People & Talking | CHOOSE YOUR FAVORITE ARGUMENT ENDING | SOMEONE APOLOGISES | CHANGE SUBJECT | WALK AWAY | IT NEVER ENDS 💀 | — | Text poll |
+| 710 | People & Talking | CHOOSE YOUR FAVORITE WAY TO SAY GOODBYE | "BYE" | "SEE YOU" | "TAKE CARE" | JUST LEAVE 💀 | — | Text poll |
+| 711 | Inner Life | CHOOSE YOUR FAVORITE PLACE TO THINK | THE SHOWER | A WALK | MY BED | IN TRAFFIC | — | Text poll |
+| 712 | Inner Life | CHOOSE YOUR FAVORITE FEELING | BEING DONE | BEING RIGHT | BEING MISSED | BEING PAID | — | Text poll |
+| 713 | Inner Life | CHOOSE YOUR FAVORITE SMALL WIN | BED MADE | INBOX EMPTY | DISHES DONE | LEFT MY BED 💀 | — | Text poll |
+| 714 | Inner Life | CHOOSE YOUR FAVORITE THING TO IGNORE | EMAILS | CALLS | MY ALARM | MY PROBLEMS 💀 | — | Text poll |
+| 715 | Inner Life | CHOOSE YOUR FAVORITE WAY TO BE ALONE | HOME ALONE | LONG WALK | DRIVE | IN A CROWD | — | Text poll |
+| 716 | Inner Life | CHOOSE YOUR FAVORITE SOUND | RAIN | WAVES | FIRE | SILENCE | — | Text poll |
+| 717 | Inner Life | CHOOSE YOUR FAVORITE MORNING SOUND | BIRDS | ALARM 💀 | COFFEE MACHINE | NOTHING | — | Text poll |
+| 718 | Habits & Time | CHOOSE YOUR FAVORITE WAY TO REST | NAP | SCROLL | WALK | DO NOTHING | — | Text poll |
+| 719 | Habits & Time | CHOOSE YOUR FAVORITE TYPE OF PLAN | PLANNED WEEKS AHEAD | SAME DAY | NEVER PLAN | CANCELLED 💀 | — | Text poll |
+| 720 | Habits & Time | CHOOSE YOUR FAVORITE WORK STYLE | EARLY MORNING | LATE NIGHT | LAST MINUTE 💀 | STEADY DAILY | — | Text poll |
+| 721 | Habits & Time | CHOOSE YOUR FAVORITE TIME TO EAT | EARLY | NORMAL | LATE | ALL DAY 💀 | — | Text poll |
+| 722 | Habits & Time | CHOOSE YOUR FAVORITE WAY TO SPEND SUNDAY | SLEEP | FAMILY | PREPARE FOR MONDAY | AVOID MONDAY 💀 | — | Text poll |
+| 723 | Habits & Time | CHOOSE YOUR FAVORITE EXCUSE TO STAY HOME | TOO TIRED | TOO EXPENSIVE | BAD WEATHER | NO EXCUSE NEEDED | — | Text poll |
+| 724 | Habits & Time | CHOOSE YOUR FAVORITE THING TO DO ALONE | EAT | WALK | WATCH SOMETHING | EVERYTHING | — | Text poll |
+| 725 | Life Views | CHOOSE YOUR FAVORITE THING MONEY BUYS | TIME | COMFORT | FREEDOM | PEACE | — | Text poll |
+| 726 | Life Views | CHOOSE YOUR FAVORITE RISK | NEW JOB | NEW CITY | NEW PERSON | NO RISKS 💀 | — | Text poll |
+| 727 | Life Views | CHOOSE YOUR FAVORITE WAY TO LEARN | WATCHING | READING | DOING | FAILING | — | Text poll |
+| 728 | Life Views | CHOOSE YOUR FAVORITE TYPE OF LUCK | GOOD TIMING | RIGHT PEOPLE | HARD WORK | NO SUCH THING | — | Text poll |
+| 729 | Life Views | CHOOSE YOUR FAVORITE SEASON OF LIFE | SCHOOL YEARS | TWENTIES | THIRTIES | RIGHT NOW | — | Text poll |
+| 730 | Life Views | CHOOSE YOUR FAVORITE THING TO COLLECT NOW | MEMORIES | MONEY | FRIENDS | NOTHING | — | Text poll |
+| 731 | Life Views | CHOOSE YOUR FAVORITE PROBLEM TO HAVE | TOO MUCH WORK | TOO MANY PLANS | TOO MUCH FOOD | TOO MUCH TIME | — | Text poll |
+| 732 | Life Views | CHOOSE YOUR FAVORITE PROOF YOU'RE GROWN | PAYING BILLS | EARLY NIGHTS | SAYING NO | BACK PAIN 💀 | — | Text poll |
+| 733 | Life Views | CHOOSE YOUR FAVORITE ADVICE TO IGNORE | "JUST RELAX" | "BE YOURSELF" | "SLEEP EARLY" | "SAVE MONEY" | — | Text poll |
