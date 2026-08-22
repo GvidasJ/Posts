@@ -696,3 +696,49 @@ PRODUCTION: for each colour poll, take ONE photo of the object and recolour it 4
 | 561 | Choose The Right One | CHOOSE THE RIGHT LOGO OF ANDROID | A | B | C | D | C ✅ | C = real robot; others = wrong antenna count/angle, wrong green |
 | 562 | Choose The Right One | CHOOSE THE RIGHT LOGO OF PEPSI | A | B | C | D | A ✅ | A = real; others = swapped red/blue halves, wrong wave |
 | 563 | Choose The Right One | CHOOSE THE RIGHT LOGO OF BLUETOOTH | A | B | C | D | D ✅ | D = real rune; others = mirrored or with an extra angle |
+
+## Batch 22 — 2026-08-21 (LIFE & MONEY DILEMMAS — copied from @Groomforwealth)
+
+Competitor data (@Groomforwealth, 500K subs, checked 2026-08-21). TEXT polls only, no images, 12K-27K votes each:
+give up for a week 27K · favorite part of home 24K · live close to 23K · which would you choose 18K · partner phone password 16K · how do you spend money 12K · take what you need 12K · lost all money 9.7K
+FLOP: "would you join a 6am livestream?" 740 votes — channel admin questions die, relatable dilemmas win.
+
+Their format (deliberately DIFFERENT from this file's other batches — no CHOOSE YOUR FAVORITE, no 8-word limit, no 1-3 word options):
+1. Full natural question ending in "?"
+2. Four options written as full phrases/sentences
+3. ONE emoji repeated at the start of all four options; a different decorative emoji per post
+4. Adult themes: money, relationships, sacrifice, self-reflection
+5. One option is usually funny or self-deprecating ("I don't have any money to lose")
+
+| # | Type | Question | Option 1 | Option 2 | Option 3 | Option 4 | Correct (if any) | Image notes (if any) |
+|---|------|----------|----------|----------|----------|----------|------------------|----------------------|
+| 564 | Life & Money | What would you do with $1000 right now? | 💵 Save it all | 💵 Spend it all | 💵 Pay off debt | 💵 Give it away | — | Text poll |
+| 565 | Life & Money | What is your biggest money mistake? | 💸 Buying things I didn't need | 💸 Lending to friends | 💸 Not saving early | 💸 I haven't made one | — | Text poll |
+| 566 | Life & Money | How much of your salary do you save? | 🏦 Nothing at all | 🏦 A little every month | 🏦 Half of it | 🏦 I save before I spend | — | Text poll |
+| 567 | Life & Money | Would you tell your friends how much you earn? | 💰 Yes, no secrets | 💰 Only my closest friend | 💰 Never, ever | 💰 They already know | — | Text poll |
+| 568 | Life & Money | What would make you feel rich? | 🪙 A big bank balance | 🪙 Owning a house | 🪙 Never checking prices | 🪙 Having free time | — | Text poll |
+| 569 | Life & Money | Which bill hurts the most to pay? | 🧾 Rent | 🧾 Electricity | 🧾 Data and internet | 🧾 Groceries | — | Text poll |
+| 570 | Relationships | Should couples share one bank account? | 💳 Yes, everything together | 💳 No, keep it separate | 💳 Half and half | 💳 I'm single anyway | — | Text poll |
+| 571 | Relationships | Would you date someone who earns less than you? | ❤️ Yes, money isn't everything | ❤️ No, it would be hard | ❤️ Depends on their plans | ❤️ I'd rather not say | — | Text poll |
+| 572 | Relationships | Who should pay on a first date? | 🍽️ Whoever asked | 🍽️ Split it | 🍽️ The man | 🍽️ Nobody, just walk | — | Text poll |
+| 573 | Relationships | Would you move to another country for love? | ✈️ Yes, in a heartbeat | ✈️ No, my life is here | ✈️ Only if we visit first | ✈️ I already did | — | Text poll |
+| 574 | Relationships | What is the biggest red flag in a partner? | 🚩 Always broke | 🚩 Never texts back | 🚩 Rude to waiters | 🚩 Hides their phone | — | Text poll |
+| 575 | Relationships | Would you forgive a friend who never paid you back? | 🤝 Yes, let it go | 🤝 No, friendship over | 🤝 I'd ask one more time | 🤝 I stopped lending | — | Text poll |
+| 576 | Would You Rather | Which would you rather lose for a month? | ⏳ Your phone | ⏳ Your bed | ⏳ Hot water | ⏳ Your best friend | — | Text poll |
+| 577 | Would You Rather | Which would you rather have? | 🎁 More money | 🎁 More time | 🎁 More energy | 🎁 More friends | — | Text poll |
+| 578 | Would You Rather | Which would you rather wake up to? | 🌅 A silent house | 🌅 Fresh coffee ready | 🌅 Nobody needing anything | 🌅 A completely free day | — | Text poll |
+| 579 | Would You Rather | Which job would you take? | 💼 Boring but pays well | 💼 Fun but pays little | 💼 Hard but respected | 💼 None, I'd rest | — | Text poll |
+| 580 | Would You Rather | Which would you rather never do again? | 🧹 Cook | 🧹 Clean | 🧹 Commute | 🧹 Explain yourself | — | Text poll |
+| 581 | Would You Rather | Where would you rather live? | 🏡 Big city | 🏡 Quiet village | 🏡 By the beach | 🏡 Wherever work is | — | Text poll |
+| 582 | Self-Reflection | What do you need most today? | 🕯️ Rest | 🕯️ Money | 🕯️ A hug | 🕯️ Good news | — | Text poll |
+| 583 | Self-Reflection | What are you working on right now? | 🌱 My health | 🌱 My money | 🌱 My peace | 🌱 All of it at once | — | Text poll |
+| 584 | Self-Reflection | What time do you feel most yourself? | 🌙 Early morning | 🌙 Midday | 🌙 Evening | 🌙 Late at night | — | Text poll |
+| 585 | Self-Reflection | What would you tell your younger self? | 📖 Save more money | 📖 Worry less | 📖 Leave sooner | 📖 Keep going | — | Text poll |
+| 586 | Self-Reflection | What holds you back the most? | 🪨 Money | 🪨 Fear | 🪨 Other people | 🪨 My own head | — | Text poll |
+| 587 | Self-Reflection | How do you handle a bad day? | ☔ Sleep it off | ☔ Talk to someone | ☔ Keep working | ☔ Eat something good | — | Text poll |
+| 588 | Lifestyle | What is your favorite part of the weekend? | 🛋️ Friday night | 🛋️ Saturday morning | 🛋️ Sunday rest | 🛋️ All of it | — | Text poll |
+| 589 | Lifestyle | What is the first thing you buy when money comes in? | 🛒 Food | 🛒 Bills | 🛒 Something for me | 🛒 Straight to savings | — | Text poll |
+| 590 | Lifestyle | What do you check first in the morning? | 📱 My phone | 📱 The time | 📱 My bank app | 📱 Nothing at all | — | Text poll |
+| 591 | Lifestyle | Who taught you the most about money? | 👣 My parents | 👣 The internet | 👣 My own mistakes | 👣 Nobody yet | — | Text poll |
+| 592 | Lifestyle | What does success look like to you? | 🏔️ A big house | 🏔️ No debt | 🏔️ Freedom to choose | 🏔️ Peace of mind | — | Text poll |
+| 593 | Lifestyle | Would you take a job you love for half the pay? | 🧭 Yes, instantly | 🧭 No, bills are real | 🧭 Only if I had savings | 🧭 I already did | — | Text poll |
