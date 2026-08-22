@@ -851,3 +851,41 @@ The colour-set polls (646-649) are the strongest visually — four tiles sharing
 | 671 | Fan Battle | CHOOSE YOUR FAVORITE MOVIE GRANDPA | CARL FROM UP | GEPPETTO | SANTA CLAUS | GRANDPA JOE | — | Character portrait per tile |
 | 672 | Fan Battle | CHOOSE YOUR FAVORITE CHRISTMAS CHARACTER | SANTA | GRINCH | OLAF | RUDOLPH | — | Save for December — seasonal spike |
 | 673 | Fan Battle | CHOOSE YOUR FAVORITE MOVIE GHOST | CASPER | SLIMER | BEETLEJUICE | NEARLY HEADLESS NICK | — | Save for October/Halloween |
+
+## Batch 25 — 2026-08-22 (MOVIE CHARACTER POLLS III — image polls)
+
+691 and 692 are the two biggest argument-starters in the whole file — casting debates never resolve, which is exactly what a comment section needs.
+696 and 698 use the logo format that got @Ainyra_Explains 1.8M votes (WiFi logo) — same mechanic, applied to movie logos.
+
+| # | Type | Question | Option 1 | Option 2 | Option 3 | Option 4 | Correct (if any) | Image notes (if any) |
+|---|------|----------|----------|----------|----------|----------|------------------|----------------------|
+| 674 | Fan Battle | CHOOSE YOUR FAVORITE CARTOON DUCK | DONALD | DAFFY | SCROOGE McDUCK | RUBBER DUCK 💀 | — | Rubber duck as the joke option |
+| 675 | Fan Battle | CHOOSE YOUR FAVORITE CARTOON RABBIT | BUGS BUNNY | ROGER RABBIT | PETER RABBIT | JUDY HOPPS | — | Character art per tile |
+| 676 | Fan Battle | CHOOSE YOUR FAVORITE MOVIE PIG | PEPPA PIG | PUMBAA | PIGLET | MISS PIGGY | — | Character art per tile |
+| 677 | Fan Battle | CHOOSE YOUR FAVORITE MOVIE LION | SIMBA | MUFASA | SCAR | ALEX | — | Character art per tile |
+| 678 | Fan Battle | CHOOSE YOUR FAVORITE MOVIE ELEPHANT | DUMBO | HORTON | BABAR | MANNY | — | Character art per tile |
+| 679 | Fan Battle | CHOOSE YOUR FAVORITE MOVIE PENGUIN | PINGU | MUMBLE | SKIPPER | KOWALSKI | — | Character art per tile |
+| 680 | Fan Battle | CHOOSE YOUR FAVORITE SUPERHERO TEAM | AVENGERS | JUSTICE LEAGUE | X-MEN | INCREDIBLES | — | Group shot per team |
+| 681 | Fan Battle | CHOOSE YOUR FAVORITE MOVIE SPY | JAMES BOND | ETHAN HUNT | BLACK WIDOW | KIM POSSIBLE | — | Character portrait per tile |
+| 682 | Fan Battle | CHOOSE YOUR FAVORITE MOVIE PIRATE | JACK SPARROW | CAPTAIN HOOK | LONG JOHN SILVER | BLACKBEARD | — | Character portrait per tile |
+| 683 | Fan Battle | CHOOSE YOUR FAVORITE MOVIE KING | MUFASA | ARAGORN | T'CHALLA | KING JULIEN | — | Character portrait per tile |
+| 684 | Fan Battle | CHOOSE YOUR FAVORITE MOVIE QUEEN | ELSA | QUEEN OF HEARTS | EVIL QUEEN | QUEEN AMIDALA | — | Character portrait per tile |
+| 685 | Fan Battle | CHOOSE YOUR FAVORITE MOVIE ALIEN | E.T. | STITCH | MARVIN MARTIAN | TOY STORY ALIENS | — | Character art per tile |
+| 686 | Fan Battle | CHOOSE YOUR FAVORITE MINION | BOB | KEVIN | STUART | DAVE | — | One Minion per tile, same pose |
+| 687 | Fan Battle | CHOOSE YOUR FAVORITE POKEMON | PIKACHU | CHARIZARD | BULBASAUR | SQUIRTLE | — | Official art per tile |
+| 688 | Fan Battle | CHOOSE YOUR FAVORITE SIMPSONS CHARACTER | HOMER | BART | LISA | MARGE | — | Character art per tile |
+| 689 | Fan Battle | CHOOSE YOUR FAVORITE SPONGEBOB CHARACTER | SPONGEBOB | PATRICK | SQUIDWARD | MR KRABS | — | Character art per tile |
+| 690 | Fan Battle | CHOOSE YOUR FAVORITE HARRY POTTER CHARACTER | HARRY | HERMIONE | RON | HAGRID | — | Character portrait per tile |
+| 691 | Fan Battle | CHOOSE YOUR FAVORITE SPIDER-MAN | TOBEY | ANDREW | TOM HOLLAND | MILES MORALES | — | Suit/actor shot per tile — biggest debate poll in the file |
+| 692 | Fan Battle | CHOOSE YOUR FAVORITE BATMAN ACTOR | CHRISTIAN BALE | ROBERT PATTINSON | MICHAEL KEATON | BEN AFFLECK | — | Cowl shot per actor |
+| 693 | Fan Battle | CHOOSE YOUR FAVORITE ANIMATION STUDIO | DISNEY | PIXAR | DREAMWORKS | ILLUMINATION | — | Studio logo per tile |
+| 694 | Fan Battle | CHOOSE YOUR FAVORITE MOVIE FRANCHISE | MARVEL | STAR WARS | HARRY POTTER | FAST & FURIOUS | — | Franchise logo per tile |
+| 695 | Fan Battle | CHOOSE YOUR FAVORITE MOVIE DECADE | 80s | 90s | 2000s | TODAY | — | Iconic still from each era |
+| 696 | Fan Battle | CHOOSE YOUR FAVORITE MOVIE OPENING LOGO | DISNEY CASTLE | UNIVERSAL GLOBE | MARVEL FLIP | 20TH CENTURY | — | Logo frame per tile — competitor-proven logo format |
+| 697 | Fan Battle | CHOOSE YOUR FAVORITE CARTOON VILLAIN | PLANKTON | DR DOOFENSHMIRTZ | GARGAMEL | TEAM ROCKET | — | Character art per tile |
+| 698 | Fan Battle | CHOOSE YOUR FAVORITE SUPERHERO LOGO | BATMAN | SUPERMAN | SPIDER-MAN | FLASH | — | Chest symbol only, same size and background |
+| 699 | Fan Battle | CHOOSE YOUR FAVORITE FROZEN CHARACTER | ELSA | ANNA | OLAF | SVEN | — | Character art per tile |
+| 700 | Fan Battle | CHOOSE YOUR FAVORITE SHREK CHARACTER | SHREK | DONKEY | FIONA | PUSS IN BOOTS | — | Character art per tile |
+| 701 | Fan Battle | CHOOSE YOUR FAVORITE CARS CHARACTER | LIGHTNING McQUEEN | MATER | SALLY | DOC HUDSON | — | Character art per tile |
+| 702 | Fan Battle | CHOOSE YOUR FAVORITE MADAGASCAR CHARACTER | ALEX | MARTY | MELMAN | GLORIA | — | Character art per tile |
+| 703 | Fan Battle | CHOOSE YOUR FAVORITE ICE AGE CHARACTER | SID | MANNY | DIEGO | SCRAT | — | Character art per tile |
