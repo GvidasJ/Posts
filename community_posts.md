@@ -742,3 +742,40 @@ Their format (deliberately DIFFERENT from this file's other batches — no CHOOS
 | 591 | Lifestyle | WHO TAUGHT YOU THE MOST ABOUT MONEY? | 👣 MY PARENTS | 👣 THE INTERNET | 👣 MY OWN MISTAKES | 👣 NOBODY YET | — | Text poll |
 | 592 | Lifestyle | WHAT DOES SUCCESS LOOK LIKE TO YOU? | 🏔️ A BIG HOUSE | 🏔️ NO DEBT | 🏔️ FREEDOM TO CHOOSE | 🏔️ PEACE OF MIND | — | Text poll |
 | 593 | Lifestyle | WOULD YOU TAKE A JOB YOU LOVE FOR HALF THE PAY? | 🧭 YES, INSTANTLY | 🧭 NO, BILLS ARE REAL | 🧭 ONLY IF I HAD SAVINGS | 🧭 I ALREADY DID | — | Text poll |
+
+## Batch 22 — 2026-08-22 (LIFE & MONEY DILEMMAS II — Groomforwealth style)
+
+Same format as batch 21: full natural question, four full-phrase options, ONE decorative emoji repeated on all four, adult life themes, one option that is funny or self-deprecating.
+
+| # | Type | Question | Option 1 | Option 2 | Option 3 | Option 4 | Correct (if any) | Image notes (if any) |
+|---|------|----------|----------|----------|----------|----------|------------------|----------------------|
+| 594 | Work & Time | WHAT WOULD YOU DO WITH AN EXTRA HOUR EVERY DAY? | ⏰ SLEEP MORE | ⏰ WORK ON MYSELF | ⏰ SEE MY PEOPLE | ⏰ DO NOTHING AT ALL | — | Text poll |
+| 595 | Work & Time | WHAT IS THE HARDEST PART OF YOUR DAY? | 🌫️ WAKING UP | 🌫️ GETTING STARTED | 🌫️ THE COMMUTE | 🌫️ FALLING ASLEEP | — | Text poll |
+| 596 | Work & Time | WOULD YOU WORK WEEKENDS FOR DOUBLE PAY? | 💼 YES, EVERY WEEKEND | 💼 ONLY SOMETIMES | 💼 NEVER, REST IS SACRED | 💼 I ALREADY DO | — | Text poll |
+| 597 | Work & Time | WHAT MAKES YOU QUIT A JOB? | 🚪 BAD PAY | 🚪 A BAD BOSS | 🚪 NO GROWTH | 🚪 I NEVER QUIT | — | Text poll |
+| 598 | Work & Time | WOULD YOU START YOUR OWN BUSINESS? | 🧱 YES, TOMORROW | 🧱 TOO RISKY FOR ME | 🧱 ONE DAY, NOT YET | 🧱 I ALREADY HAVE ONE | — | Text poll |
+| 599 | Work & Time | WHEN DID YOU LAST TAKE A REAL BREAK? | 🏝️ THIS WEEK | 🏝️ THIS YEAR | 🏝️ I CAN'T REMEMBER | 🏝️ WHAT IS A BREAK | — | Text poll |
+| 600 | Family & People | HOW OFTEN DO YOU SEE YOUR FAMILY? | 🏠 EVERY DAY | 🏠 EVERY WEEK | 🏠 A FEW TIMES A YEAR | 🏠 ALMOST NEVER | — | Text poll |
+| 601 | Family & People | WHO DO YOU CALL WHEN SOMETHING GOES WRONG? | ☎️ MY MOTHER | ☎️ MY BEST FRIEND | ☎️ MY PARTNER | ☎️ NOBODY, I HANDLE IT | — | Text poll |
+| 602 | Family & People | WOULD YOU LEND MONEY TO FAMILY? | 🧮 ALWAYS, NO QUESTIONS | 🧮 ONLY WHAT I CAN LOSE | 🧮 NEVER AGAIN | 🧮 THEY LEND TO ME | — | Text poll |
+| 603 | Family & People | WHO ARE YOU DOING IT ALL FOR? | 💞 MYSELF | 💞 MY FAMILY | 💞 MY KIDS | 💞 I DON'T KNOW ANYMORE | — | Text poll |
+| 604 | Family & People | WHICH IS HARDER TO SAY? | 🗣️ "I'M SORRY" | 🗣️ "I NEED HELP" | 🗣️ "NO" | 🗣️ "I LOVE YOU" | — | Text poll |
+| 605 | Inner Life | WHAT KEEPS YOU UP AT NIGHT? | 🌑 MONEY | 🌑 MY FUTURE | 🌑 SOMETHING I SAID | 🌑 NOTHING, I SLEEP GREAT | — | Text poll |
+| 606 | Inner Life | WHAT IS YOUR BIGGEST FEAR RIGHT NOW? | 🕳️ RUNNING OUT OF MONEY | 🕳️ BEING ALONE | 🕳️ WASTING MY TIME | 🕳️ NOTHING SCARES ME | — | Text poll |
+| 607 | Inner Life | WOULD YOU RATHER BE RESPECTED OR LIKED? | 👑 RESPECTED | 👑 LIKED | 👑 BOTH OR NOTHING | 👑 NEITHER, JUST LEFT ALONE | — | Text poll |
+| 608 | Inner Life | WHICH HABIT ARE YOU TRYING TO BREAK? | 🔗 SCROLLING TOO MUCH | 🔗 SLEEPING LATE | 🔗 SPENDING TOO FAST | 🔗 SAYING YES TO EVERYONE | — | Text poll |
+| 609 | Inner Life | HOW DO YOU MAKE BIG DECISIONS? | 🧭 I THINK IT THROUGH | 🧭 I ASK SOMEONE | 🧭 I GO WITH MY GUT | 🧭 I AVOID THEM | — | Text poll |
+| 610 | Inner Life | WHAT DO YOU DO WHEN YOU CAN'T SLEEP? | 🌃 SCROLL MY PHONE | 🌃 JUST LIE THERE | 🌃 GET UP AND EAT | 🌃 I ALWAYS SLEEP FINE | — | Text poll |
+| 611 | Inner Life | WHAT WOULD YOU FIX ABOUT YOUR HEALTH? | 🫀 MY SLEEP | 🫀 MY EATING | 🫀 MY STRESS | 🫀 NOTHING, I'M FINE | — | Text poll |
+| 612 | Money Decisions | WHAT WOULD YOU DO WITH ONE MILLION DOLLARS? | 🏦 BUY A HOUSE | 🏦 INVEST IT ALL | 🏦 HELP MY FAMILY | 🏦 QUIT EVERYTHING | — | Text poll |
+| 613 | Money Decisions | WHAT ARE YOU SAVING FOR RIGHT NOW? | 🎯 A HOUSE | 🎯 A TRIP | 🎯 EMERGENCIES | 🎯 I CAN'T SAVE YET | — | Text poll |
+| 614 | Money Decisions | WHAT DO YOU SPEND TOO MUCH ON? | 🛍️ FOOD | 🛍️ CLOTHES | 🛍️ SUBSCRIPTIONS | 🛍️ NOTHING, I'M CAREFUL | — | Text poll |
+| 615 | Money Decisions | WOULD YOU MOVE CITIES FOR A BETTER JOB? | 🧳 YES, WITHOUT THINKING | 🧳 ONLY FOR BIG MONEY | 🧳 NO, HOME IS HOME | 🧳 I ALREADY DID | — | Text poll |
+| 616 | Life & Future | WHAT DOES A GOOD DAY LOOK LIKE FOR YOU? | ☀️ NOTHING GOES WRONG | ☀️ I GET THINGS DONE | ☀️ I SEE PEOPLE I LOVE | ☀️ I REST WITHOUT GUILT | — | Text poll |
+| 617 | Life & Future | WHAT WOULD YOU DO IF TODAY WAS FREE? | 🎈 SLEEP ALL DAY | 🎈 GO SOMEWHERE NEW | 🎈 SEE MY PEOPLE | 🎈 FINALLY GET THINGS DONE | — | Text poll |
+| 618 | Life & Future | WHAT DO YOU MISS MOST ABOUT BEING YOUNGER? | 🪁 NO RESPONSIBILITY | 🪁 FREE TIME | 🪁 MY OLD FRIENDS | 🪁 I MISS NOTHING | — | Text poll |
+| 619 | Life & Future | WOULD YOU READ YOUR FUTURE IF YOU COULD? | 🔮 YES, ALL OF IT | 🔮 ONLY THE GOOD PARTS | 🔮 NO, I'D BE SCARED | 🔮 I'D RATHER BE SURPRISED | — | Text poll |
+| 620 | Life & Future | WHAT WOULD YOU CHANGE ABOUT YOUR WEEK? | 📆 LESS WORK | 📆 MORE SLEEP | 📆 MORE MONEY | 📆 NOTHING AT ALL | — | Text poll |
+| 621 | Life & Future | HOW DO YOU CELEBRATE A WIN? | 🎉 GOOD FOOD | 🎉 TELL EVERYONE | 🎉 BUY SOMETHING | 🎉 I JUST KEEP GOING | — | Text poll |
+| 622 | Life & Future | WHAT IS THE BEST ADVICE YOU EVER GOT? | 📜 START NOW | 📜 SAVE FIRST | 📜 TRUST SLOWLY | 📜 NOBODY ADVISED ME | — | Text poll |
+| 623 | Life & Future | WHERE DO YOU SEE YOURSELF IN FIVE YEARS? | 🛤️ SAME PLACE | 🛤️ MUCH BETTER OFF | 🛤️ IN ANOTHER COUNTRY | 🛤️ NO IDEA AT ALL | — | Text poll |
