@@ -712,33 +712,33 @@ Their format (deliberately DIFFERENT from this file's other batches — no CHOOS
 
 | # | Type | Question | Option 1 | Option 2 | Option 3 | Option 4 | Correct (if any) | Image notes (if any) |
 |---|------|----------|----------|----------|----------|----------|------------------|----------------------|
-| 564 | Life & Money | What would you do with $1000 right now? | 💵 Save it all | 💵 Spend it all | 💵 Pay off debt | 💵 Give it away | — | Text poll |
-| 565 | Life & Money | What is your biggest money mistake? | 💸 Buying things I didn't need | 💸 Lending to friends | 💸 Not saving early | 💸 I haven't made one | — | Text poll |
-| 566 | Life & Money | How much of your salary do you save? | 🏦 Nothing at all | 🏦 A little every month | 🏦 Half of it | 🏦 I save before I spend | — | Text poll |
-| 567 | Life & Money | Would you tell your friends how much you earn? | 💰 Yes, no secrets | 💰 Only my closest friend | 💰 Never, ever | 💰 They already know | — | Text poll |
-| 568 | Life & Money | What would make you feel rich? | 🪙 A big bank balance | 🪙 Owning a house | 🪙 Never checking prices | 🪙 Having free time | — | Text poll |
-| 569 | Life & Money | Which bill hurts the most to pay? | 🧾 Rent | 🧾 Electricity | 🧾 Data and internet | 🧾 Groceries | — | Text poll |
-| 570 | Relationships | Should couples share one bank account? | 💳 Yes, everything together | 💳 No, keep it separate | 💳 Half and half | 💳 I'm single anyway | — | Text poll |
-| 571 | Relationships | Would you date someone who earns less than you? | ❤️ Yes, money isn't everything | ❤️ No, it would be hard | ❤️ Depends on their plans | ❤️ I'd rather not say | — | Text poll |
-| 572 | Relationships | Who should pay on a first date? | 🍽️ Whoever asked | 🍽️ Split it | 🍽️ The man | 🍽️ Nobody, just walk | — | Text poll |
-| 573 | Relationships | Would you move to another country for love? | ✈️ Yes, in a heartbeat | ✈️ No, my life is here | ✈️ Only if we visit first | ✈️ I already did | — | Text poll |
-| 574 | Relationships | What is the biggest red flag in a partner? | 🚩 Always broke | 🚩 Never texts back | 🚩 Rude to waiters | 🚩 Hides their phone | — | Text poll |
-| 575 | Relationships | Would you forgive a friend who never paid you back? | 🤝 Yes, let it go | 🤝 No, friendship over | 🤝 I'd ask one more time | 🤝 I stopped lending | — | Text poll |
-| 576 | Would You Rather | Which would you rather lose for a month? | ⏳ Your phone | ⏳ Your bed | ⏳ Hot water | ⏳ Your best friend | — | Text poll |
-| 577 | Would You Rather | Which would you rather have? | 🎁 More money | 🎁 More time | 🎁 More energy | 🎁 More friends | — | Text poll |
-| 578 | Would You Rather | Which would you rather wake up to? | 🌅 A silent house | 🌅 Fresh coffee ready | 🌅 Nobody needing anything | 🌅 A completely free day | — | Text poll |
-| 579 | Would You Rather | Which job would you take? | 💼 Boring but pays well | 💼 Fun but pays little | 💼 Hard but respected | 💼 None, I'd rest | — | Text poll |
-| 580 | Would You Rather | Which would you rather never do again? | 🧹 Cook | 🧹 Clean | 🧹 Commute | 🧹 Explain yourself | — | Text poll |
-| 581 | Would You Rather | Where would you rather live? | 🏡 Big city | 🏡 Quiet village | 🏡 By the beach | 🏡 Wherever work is | — | Text poll |
-| 582 | Self-Reflection | What do you need most today? | 🕯️ Rest | 🕯️ Money | 🕯️ A hug | 🕯️ Good news | — | Text poll |
-| 583 | Self-Reflection | What are you working on right now? | 🌱 My health | 🌱 My money | 🌱 My peace | 🌱 All of it at once | — | Text poll |
-| 584 | Self-Reflection | What time do you feel most yourself? | 🌙 Early morning | 🌙 Midday | 🌙 Evening | 🌙 Late at night | — | Text poll |
-| 585 | Self-Reflection | What would you tell your younger self? | 📖 Save more money | 📖 Worry less | 📖 Leave sooner | 📖 Keep going | — | Text poll |
-| 586 | Self-Reflection | What holds you back the most? | 🪨 Money | 🪨 Fear | 🪨 Other people | 🪨 My own head | — | Text poll |
-| 587 | Self-Reflection | How do you handle a bad day? | ☔ Sleep it off | ☔ Talk to someone | ☔ Keep working | ☔ Eat something good | — | Text poll |
-| 588 | Lifestyle | What is your favorite part of the weekend? | 🛋️ Friday night | 🛋️ Saturday morning | 🛋️ Sunday rest | 🛋️ All of it | — | Text poll |
-| 589 | Lifestyle | What is the first thing you buy when money comes in? | 🛒 Food | 🛒 Bills | 🛒 Something for me | 🛒 Straight to savings | — | Text poll |
-| 590 | Lifestyle | What do you check first in the morning? | 📱 My phone | 📱 The time | 📱 My bank app | 📱 Nothing at all | — | Text poll |
-| 591 | Lifestyle | Who taught you the most about money? | 👣 My parents | 👣 The internet | 👣 My own mistakes | 👣 Nobody yet | — | Text poll |
-| 592 | Lifestyle | What does success look like to you? | 🏔️ A big house | 🏔️ No debt | 🏔️ Freedom to choose | 🏔️ Peace of mind | — | Text poll |
-| 593 | Lifestyle | Would you take a job you love for half the pay? | 🧭 Yes, instantly | 🧭 No, bills are real | 🧭 Only if I had savings | 🧭 I already did | — | Text poll |
+| 564 | Life & Money | WHAT WOULD YOU DO WITH $1000 RIGHT NOW? | 💵 SAVE IT ALL | 💵 SPEND IT ALL | 💵 PAY OFF DEBT | 💵 GIVE IT AWAY | — | Text poll |
+| 565 | Life & Money | WHAT IS YOUR BIGGEST MONEY MISTAKE? | 💸 BUYING THINGS I DIDN'T NEED | 💸 LENDING TO FRIENDS | 💸 NOT SAVING EARLY | 💸 I HAVEN'T MADE ONE | — | Text poll |
+| 566 | Life & Money | HOW MUCH OF YOUR SALARY DO YOU SAVE? | 🏦 NOTHING AT ALL | 🏦 A LITTLE EVERY MONTH | 🏦 HALF OF IT | 🏦 I SAVE BEFORE I SPEND | — | Text poll |
+| 567 | Life & Money | WOULD YOU TELL YOUR FRIENDS HOW MUCH YOU EARN? | 💰 YES, NO SECRETS | 💰 ONLY MY CLOSEST FRIEND | 💰 NEVER, EVER | 💰 THEY ALREADY KNOW | — | Text poll |
+| 568 | Life & Money | WHAT WOULD MAKE YOU FEEL RICH? | 🪙 A BIG BANK BALANCE | 🪙 OWNING A HOUSE | 🪙 NEVER CHECKING PRICES | 🪙 HAVING FREE TIME | — | Text poll |
+| 569 | Life & Money | WHICH BILL HURTS THE MOST TO PAY? | 🧾 RENT | 🧾 ELECTRICITY | 🧾 DATA AND INTERNET | 🧾 GROCERIES | — | Text poll |
+| 570 | Relationships | SHOULD COUPLES SHARE ONE BANK ACCOUNT? | 💳 YES, EVERYTHING TOGETHER | 💳 NO, KEEP IT SEPARATE | 💳 HALF AND HALF | 💳 I'M SINGLE ANYWAY | — | Text poll |
+| 571 | Relationships | WOULD YOU DATE SOMEONE WHO EARNS LESS THAN YOU? | ❤️ YES, MONEY ISN'T EVERYTHING | ❤️ NO, IT WOULD BE HARD | ❤️ DEPENDS ON THEIR PLANS | ❤️ I'D RATHER NOT SAY | — | Text poll |
+| 572 | Relationships | WHO SHOULD PAY ON A FIRST DATE? | 🍽️ WHOEVER ASKED | 🍽️ SPLIT IT | 🍽️ THE MAN | 🍽️ NOBODY, JUST WALK | — | Text poll |
+| 573 | Relationships | WOULD YOU MOVE TO ANOTHER COUNTRY FOR LOVE? | ✈️ YES, IN A HEARTBEAT | ✈️ NO, MY LIFE IS HERE | ✈️ ONLY IF WE VISIT FIRST | ✈️ I ALREADY DID | — | Text poll |
+| 574 | Relationships | WHAT IS THE BIGGEST RED FLAG IN A PARTNER? | 🚩 ALWAYS BROKE | 🚩 NEVER TEXTS BACK | 🚩 RUDE TO WAITERS | 🚩 HIDES THEIR PHONE | — | Text poll |
+| 575 | Relationships | WOULD YOU FORGIVE A FRIEND WHO NEVER PAID YOU BACK? | 🤝 YES, LET IT GO | 🤝 NO, FRIENDSHIP OVER | 🤝 I'D ASK ONE MORE TIME | 🤝 I STOPPED LENDING | — | Text poll |
+| 576 | Would You Rather | WHICH WOULD YOU RATHER LOSE FOR A MONTH? | ⏳ YOUR PHONE | ⏳ YOUR BED | ⏳ HOT WATER | ⏳ YOUR BEST FRIEND | — | Text poll |
+| 577 | Would You Rather | WHICH WOULD YOU RATHER HAVE? | 🎁 MORE MONEY | 🎁 MORE TIME | 🎁 MORE ENERGY | 🎁 MORE FRIENDS | — | Text poll |
+| 578 | Would You Rather | WHICH WOULD YOU RATHER WAKE UP TO? | 🌅 A SILENT HOUSE | 🌅 FRESH COFFEE READY | 🌅 NOBODY NEEDING ANYTHING | 🌅 A COMPLETELY FREE DAY | — | Text poll |
+| 579 | Would You Rather | WHICH JOB WOULD YOU TAKE? | 💼 BORING BUT PAYS WELL | 💼 FUN BUT PAYS LITTLE | 💼 HARD BUT RESPECTED | 💼 NONE, I'D REST | — | Text poll |
+| 580 | Would You Rather | WHICH WOULD YOU RATHER NEVER DO AGAIN? | 🧹 COOK | 🧹 CLEAN | 🧹 COMMUTE | 🧹 EXPLAIN YOURSELF | — | Text poll |
+| 581 | Would You Rather | WHERE WOULD YOU RATHER LIVE? | 🏡 BIG CITY | 🏡 QUIET VILLAGE | 🏡 BY THE BEACH | 🏡 WHEREVER WORK IS | — | Text poll |
+| 582 | Self-Reflection | WHAT DO YOU NEED MOST TODAY? | 🕯️ REST | 🕯️ MONEY | 🕯️ A HUG | 🕯️ GOOD NEWS | — | Text poll |
+| 583 | Self-Reflection | WHAT ARE YOU WORKING ON RIGHT NOW? | 🌱 MY HEALTH | 🌱 MY MONEY | 🌱 MY PEACE | 🌱 ALL OF IT AT ONCE | — | Text poll |
+| 584 | Self-Reflection | WHAT TIME DO YOU FEEL MOST YOURSELF? | 🌙 EARLY MORNING | 🌙 MIDDAY | 🌙 EVENING | 🌙 LATE AT NIGHT | — | Text poll |
+| 585 | Self-Reflection | WHAT WOULD YOU TELL YOUR YOUNGER SELF? | 📖 SAVE MORE MONEY | 📖 WORRY LESS | 📖 LEAVE SOONER | 📖 KEEP GOING | — | Text poll |
+| 586 | Self-Reflection | WHAT HOLDS YOU BACK THE MOST? | 🪨 MONEY | 🪨 FEAR | 🪨 OTHER PEOPLE | 🪨 MY OWN HEAD | — | Text poll |
+| 587 | Self-Reflection | HOW DO YOU HANDLE A BAD DAY? | ☔ SLEEP IT OFF | ☔ TALK TO SOMEONE | ☔ KEEP WORKING | ☔ EAT SOMETHING GOOD | — | Text poll |
+| 588 | Lifestyle | WHAT IS YOUR FAVORITE PART OF THE WEEKEND? | 🛋️ FRIDAY NIGHT | 🛋️ SATURDAY MORNING | 🛋️ SUNDAY REST | 🛋️ ALL OF IT | — | Text poll |
+| 589 | Lifestyle | WHAT IS THE FIRST THING YOU BUY WHEN MONEY COMES IN? | 🛒 FOOD | 🛒 BILLS | 🛒 SOMETHING FOR ME | 🛒 STRAIGHT TO SAVINGS | — | Text poll |
+| 590 | Lifestyle | WHAT DO YOU CHECK FIRST IN THE MORNING? | 📱 MY PHONE | 📱 THE TIME | 📱 MY BANK APP | 📱 NOTHING AT ALL | — | Text poll |
+| 591 | Lifestyle | WHO TAUGHT YOU THE MOST ABOUT MONEY? | 👣 MY PARENTS | 👣 THE INTERNET | 👣 MY OWN MISTAKES | 👣 NOBODY YET | — | Text poll |
+| 592 | Lifestyle | WHAT DOES SUCCESS LOOK LIKE TO YOU? | 🏔️ A BIG HOUSE | 🏔️ NO DEBT | 🏔️ FREEDOM TO CHOOSE | 🏔️ PEACE OF MIND | — | Text poll |
+| 593 | Lifestyle | WOULD YOU TAKE A JOB YOU LOVE FOR HALF THE PAY? | 🧭 YES, INSTANTLY | 🧭 NO, BILLS ARE REAL | 🧭 ONLY IF I HAD SAVINGS | 🧭 I ALREADY DID | — | Text poll |
