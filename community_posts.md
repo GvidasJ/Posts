@@ -813,3 +813,41 @@ Post as IMAGE polls — one character face per tile, same crop and background fo
 | 641 | Fan Battle | CHOOSE YOUR FAVORITE MOVIE CAT | SIMBA | GARFIELD | PUSS IN BOOTS | TOM | — | Character art per cat |
 | 642 | Fan Battle | CHOOSE YOUR FAVORITE MOVIE FAMILY | THE INCREDIBLES | THE SIMPSONS | THE ADDAMS FAMILY | SHREK'S FAMILY | — | Group shot per family |
 | 643 | Fan Battle | CHOOSE YOUR FAVORITE MOVIE CAR | BATMOBILE | LIGHTNING McQUEEN | DeLOREAN | HERBIE | — | Side profile of each car |
+
+## Batch 24 — 2026-08-22 (MOVIE CHARACTER POLLS II — image polls)
+
+Same production note as batch 23: one character per tile, identical crop and background across all four.
+The colour-set polls (646-649) are the strongest visually — four tiles sharing one colour reads as a designed set, not four random pictures.
+
+| # | Type | Question | Option 1 | Option 2 | Option 3 | Option 4 | Correct (if any) | Image notes (if any) |
+|---|------|----------|----------|----------|----------|----------|------------------|----------------------|
+| 644 | Fan Battle | CHOOSE YOUR FAVORITE MARVEL VILLAIN | THANOS | LOKI | VENOM | GREEN GOBLIN | — | Character portrait per tile |
+| 645 | Fan Battle | CHOOSE YOUR FAVORITE DISNEY VILLAIN | SCAR | MALEFICENT | URSULA | CRUELLA | — | Official character art per tile |
+| 646 | Fan Battle | CHOOSE YOUR FAVORITE BLUE CHARACTER | SONIC | GENIE | SULLEY | SMURF | — | All four blue — designed colour set |
+| 647 | Fan Battle | CHOOSE YOUR FAVORITE RED CHARACTER | ELMO | MARIO | IRON MAN | LIGHTNING McQUEEN | — | All four red — designed colour set |
+| 648 | Fan Battle | CHOOSE YOUR FAVORITE ORANGE CHARACTER | GARFIELD | NEMO | TIGGER | SIMBA | — | All four orange — designed colour set |
+| 649 | Fan Battle | CHOOSE YOUR FAVORITE PURPLE CHARACTER | THANOS | BARNEY | GRIMACE | URSULA | — | All four purple — designed colour set |
+| 650 | Fan Battle | CHOOSE YOUR FAVORITE FLYING HERO | SUPERMAN | IRON MAN | THOR | PETER PAN | — | Mid-flight shot for each |
+| 651 | Fan Battle | CHOOSE YOUR FAVORITE STRONGEST CHARACTER | HULK | SUPERMAN | GOKU | THANOS | — | Power-pose shot for each |
+| 652 | Fan Battle | CHOOSE YOUR FAVORITE FASTEST CHARACTER | FLASH | SONIC | LIGHTNING McQUEEN | ROADRUNNER | — | Motion-blur shot for each |
+| 653 | Fan Battle | CHOOSE YOUR FAVORITE SMARTEST CHARACTER | IRON MAN | HERMIONE | SHERLOCK HOLMES | DEXTER | — | Character portrait per tile |
+| 654 | Fan Battle | CHOOSE YOUR FAVORITE FUNNIEST CHARACTER | DONKEY | MINIONS | OLAF | GENIE | — | Laughing/expressive shot for each |
+| 655 | Fan Battle | CHOOSE YOUR FAVORITE VIDEO GAME CHARACTER | MARIO | SONIC | PIKACHU | LINK | — | Official character art per tile |
+| 656 | Fan Battle | CHOOSE YOUR FAVORITE MOVIE WEAPON | LIGHTSABER | THOR'S HAMMER | CAPTAIN'S SHIELD | MAGIC WAND | — | Object on plain background, same scale |
+| 657 | Fan Battle | CHOOSE YOUR FAVORITE TINY CHARACTER | BABY YODA | MINION | GROOT | STUART LITTLE | — | Same framing so the small scale reads |
+| 658 | Fan Battle | CHOOSE YOUR FAVORITE BIG CHARACTER | HULK | SULLEY | KING KONG | SHREK | — | Full-body shot for each |
+| 659 | Fan Battle | CHOOSE YOUR FAVORITE PRINCESS SIDEKICK | OLAF | SEBASTIAN | MUSHU | FLOUNDER | — | Official character art per tile |
+| 660 | Fan Battle | CHOOSE YOUR FAVORITE MOVIE BEAR | WINNIE THE POOH | BALOO | PADDINGTON | YOGI BEAR | — | Character art per bear |
+| 661 | Fan Battle | CHOOSE YOUR FAVORITE MOVIE FISH | NEMO | DORY | FLOUNDER | JAWS | — | Character art per fish |
+| 662 | Fan Battle | CHOOSE YOUR FAVORITE MOVIE BIRD | ZAZU | IAGO | ANGRY BIRD | TWEETY | — | Character art per bird |
+| 663 | Fan Battle | CHOOSE YOUR FAVORITE MOVIE HORSE | MAXIMUS | SPIRIT | BULLSEYE | SHADOWFAX | — | Character art per horse |
+| 664 | Fan Battle | CHOOSE YOUR FAVORITE MOVIE SCHOOL | HOGWARTS | XAVIER'S SCHOOL | MONSTERS UNIVERSITY | SPRINGFIELD ELEMENTARY | — | Exterior shot of each building |
+| 665 | Fan Battle | CHOOSE YOUR FAVORITE MOVIE HOME | SHREK'S SWAMP | BATCAVE | BIKINI BOTTOM | SIMPSONS HOUSE | — | Establishing shot of each home |
+| 666 | Fan Battle | CHOOSE YOUR FAVORITE MOVIE CATCHPHRASE | "I'M BATMAN" | "MAY THE FORCE" | "TO INFINITY" | "HAKUNA MATATA" | — | Text on character-themed background |
+| 667 | Fan Battle | CHOOSE YOUR FAVORITE MOVIE SONG | LET IT GO | HAKUNA MATATA | UNDER THE SEA | WHOLE NEW WORLD | — | Scene still from each song |
+| 668 | Fan Battle | CHOOSE YOUR FAVORITE MOVIE TEACHER | DUMBLEDORE | MR MIYAGI | PROFESSOR X | YODA | — | Character portrait per tile |
+| 669 | Fan Battle | CHOOSE YOUR FAVORITE MOVIE DAD | MUFASA | HOMER SIMPSON | MR INCREDIBLE | DARTH VADER 💀 | — | Vader as the joke option — expect comments |
+| 670 | Fan Battle | CHOOSE YOUR FAVORITE MOVIE MOM | ELASTIGIRL | MRS WEASLEY | MARGE SIMPSON | SARAH CONNOR | — | Character portrait per tile |
+| 671 | Fan Battle | CHOOSE YOUR FAVORITE MOVIE GRANDPA | CARL FROM UP | GEPPETTO | SANTA CLAUS | GRANDPA JOE | — | Character portrait per tile |
+| 672 | Fan Battle | CHOOSE YOUR FAVORITE CHRISTMAS CHARACTER | SANTA | GRINCH | OLAF | RUDOLPH | — | Save for December — seasonal spike |
+| 673 | Fan Battle | CHOOSE YOUR FAVORITE MOVIE GHOST | CASPER | SLIMER | BEETLEJUICE | NEARLY HEADLESS NICK | — | Save for October/Halloween |
