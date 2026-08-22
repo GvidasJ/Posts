@@ -697,7 +697,7 @@ PRODUCTION: for each colour poll, take ONE photo of the object and recolour it 4
 | 562 | Choose The Right One | CHOOSE THE RIGHT LOGO OF PEPSI | A | B | C | D | A ✅ | A = real; others = swapped red/blue halves, wrong wave |
 | 563 | Choose The Right One | CHOOSE THE RIGHT LOGO OF BLUETOOTH | A | B | C | D | D ✅ | D = real rune; others = mirrored or with an extra angle |
 
-## Batch 22 — 2026-08-21 (LIFE & MONEY DILEMMAS — copied from @Groomforwealth)
+## Batch 21 — 2026-08-21 (LIFE & MONEY DILEMMAS — copied from @Groomforwealth)
 
 Competitor data (@Groomforwealth, 500K subs, checked 2026-08-21). TEXT polls only, no images, 12K-27K votes each:
 give up for a week 27K · favorite part of home 24K · live close to 23K · which would you choose 18K · partner phone password 16K · how do you spend money 12K · take what you need 12K · lost all money 9.7K
