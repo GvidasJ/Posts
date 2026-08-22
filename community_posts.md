@@ -779,3 +779,37 @@ Same format as batch 21: full natural question, four full-phrase options, ONE de
 | 621 | Life & Future | HOW DO YOU CELEBRATE A WIN? | 🎉 GOOD FOOD | 🎉 TELL EVERYONE | 🎉 BUY SOMETHING | 🎉 I JUST KEEP GOING | — | Text poll |
 | 622 | Life & Future | WHAT IS THE BEST ADVICE YOU EVER GOT? | 📜 START NOW | 📜 SAVE FIRST | 📜 TRUST SLOWLY | 📜 NOBODY ADVISED ME | — | Text poll |
 | 623 | Life & Future | WHERE DO YOU SEE YOURSELF IN FIVE YEARS? | 🛤️ SAME PLACE | 🛤️ MUCH BETTER OFF | 🛤️ IN ANOTHER COUNTRY | 🛤️ NO IDEA AT ALL | — | Text poll |
+
+## Batch 23 — 2026-08-22 (MOVIE CHARACTER POLLS — image polls, globally recognizable faces)
+
+CHARACTER POOL to build more polls from:
+SUPERHEROES: Spider-Man, Batman, Superman, Iron Man, Hulk, Thor, Captain America, Wonder Woman, Black Panther, Deadpool, Wolverine, Flash, Venom
+VILLAINS (family-safe): Joker, Thanos, Darth Vader, Voldemort, Scar, Maleficent, Gru, Cruella
+DISNEY/PIXAR: Mickey, Minnie, Donald, Goofy, Elsa, Anna, Olaf, Simba, Mufasa, Ariel, Belle, Jasmine, Snow White, Cinderella, Moana, Rapunzel, Woody, Buzz, Nemo, Dory, Lightning McQueen, WALL-E, Sulley, Mike Wazowski, Remy
+CARTOON/ANIME: SpongeBob, Patrick, Tom & Jerry, Bugs Bunny, Scooby-Doo, Homer, Bart, Pikachu, Doraemon, Ben 10, Powerpuff Girls, Naruto, Goku, Luffy, Shrek, Donkey, Minions
+MOVIE ICONS: Harry Potter, Hermione, Dumbledore, Gandalf, Yoda, Baby Yoda, Luke Skywalker, R2-D2, Jack Sparrow, Indiana Jones, James Bond, John Wick, Rocky, Terminator, Neo, Katniss, Barbie, Willy Wonka, Forrest Gump, E.T., King Kong, Godzilla, Optimus Prime, Kevin McCallister
+
+Post as IMAGE polls — one character face per tile, same crop and background for all four. Faces need no translation, which is why these travel globally.
+
+| # | Type | Question | Option 1 | Option 2 | Option 3 | Option 4 | Correct (if any) | Image notes (if any) |
+|---|------|----------|----------|----------|----------|----------|------------------|----------------------|
+| 624 | Fan Battle | CHOOSE YOUR FAVORITE SUPERHERO | SPIDER-MAN | IRON MAN | HULK | THOR | — | Character face per tile, same crop |
+| 625 | Fan Battle | CHOOSE YOUR FAVORITE DC HERO | BATMAN | SUPERMAN | WONDER WOMAN | FLASH | — | Character face per tile, same crop |
+| 626 | Fan Battle | CHOOSE YOUR FAVORITE MASKED CHARACTER | SPIDER-MAN | DARTH VADER | IRON MAN | BATMAN | — | Mask/helmet close-up for each |
+| 627 | Fan Battle | CHOOSE YOUR FAVORITE DISNEY PRINCESS | ARIEL | BELLE | JASMINE | SNOW WHITE | — | Official character art, same pose style |
+| 628 | Fan Battle | CHOOSE YOUR FAVORITE DISNEY CHARACTER | MICKEY MOUSE | DONALD DUCK | GOOFY | PLUTO | — | Official character art per tile |
+| 629 | Fan Battle | CHOOSE YOUR FAVORITE PIXAR CHARACTER | WOODY | BUZZ LIGHTYEAR | NEMO | LIGHTNING McQUEEN | — | Official character art per tile |
+| 630 | Fan Battle | CHOOSE YOUR FAVORITE YELLOW CHARACTER | PIKACHU | SPONGEBOB | MINION | HOMER SIMPSON | — | All four are yellow — strong visual gag |
+| 631 | Fan Battle | CHOOSE YOUR FAVORITE GREEN CHARACTER | SHREK | HULK | YODA | GRINCH | — | All four are green — strong visual gag |
+| 632 | Fan Battle | CHOOSE YOUR FAVORITE WIZARD | HARRY POTTER | GANDALF | DUMBLEDORE | MERLIN | — | Character portrait per tile |
+| 633 | Fan Battle | CHOOSE YOUR FAVORITE STAR WARS CHARACTER | DARTH VADER | YODA | BABY YODA | LUKE SKYWALKER | — | Character portrait per tile |
+| 634 | Fan Battle | CHOOSE YOUR FAVORITE ACTION HERO | JAMES BOND | JOHN WICK | INDIANA JONES | ROCKY | — | Iconic still per character |
+| 635 | Fan Battle | CHOOSE YOUR FAVORITE MOVIE ROBOT | WALL-E | R2-D2 | TERMINATOR | OPTIMUS PRIME | — | Full-body shot per robot |
+| 636 | Fan Battle | CHOOSE YOUR FAVORITE MOVIE MONSTER | KING KONG | GODZILLA | T-REX | SULLEY | — | Full-body shot per monster |
+| 637 | Fan Battle | CHOOSE YOUR FAVORITE CARTOON CHARACTER | SPONGEBOB | TOM & JERRY | BUGS BUNNY | SCOOBY-DOO | — | Official character art per tile |
+| 638 | Fan Battle | CHOOSE YOUR FAVORITE ANIME CHARACTER | NARUTO | GOKU | LUFFY | PIKACHU | — | Official character art per tile |
+| 639 | Fan Battle | CHOOSE YOUR FAVORITE MOVIE KID | HARRY POTTER | KEVIN McCALLISTER | SIMBA | ELSA | — | Character portrait per tile |
+| 640 | Fan Battle | CHOOSE YOUR FAVORITE MOVIE DOG | SCOOBY-DOO | BOLT | BEETHOVEN | DUG | — | Character art/still per dog |
+| 641 | Fan Battle | CHOOSE YOUR FAVORITE MOVIE CAT | SIMBA | GARFIELD | PUSS IN BOOTS | TOM | — | Character art per cat |
+| 642 | Fan Battle | CHOOSE YOUR FAVORITE MOVIE FAMILY | THE INCREDIBLES | THE SIMPSONS | THE ADDAMS FAMILY | SHREK'S FAMILY | — | Group shot per family |
+| 643 | Fan Battle | CHOOSE YOUR FAVORITE MOVIE CAR | BATMOBILE | LIGHTNING McQUEEN | DeLOREAN | HERBIE | — | Side profile of each car |
